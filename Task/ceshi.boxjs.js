@@ -2,7 +2,7 @@
 {
     "id": "ceshi.app.sub",
     "name": "自用脚本订阅",
-    "author": "@NANXIAO",
+    "author": "@NANXIAO1971",
     "icon": "https://raw.githubusercontent.com/eml5ZQ/SmF2YVNjcmlwdA/main/ziye.png",
     "repo": "https://github.com/NANXIAO1971",
     "apps": [{
