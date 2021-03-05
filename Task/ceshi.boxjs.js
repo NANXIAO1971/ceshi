@@ -182,6 +182,30 @@
             "repo": "https://github.com/age174/-/blob/main/fqkk.js",
             "icons": ["https://ftp.bmp.ovh/imgs/2021/02/f8306006536eb49c.jpeg", "https://ftp.bmp.ovh/imgs/2021/02/f8306006536eb49c.jpeg"],
             "script": "https://raw.githubusercontent.com/age174/-/main/fqkk.js"
-           }  
+           },
+           {
+            "id": "ysm",
+            "name": "云扫码",
+            "keys": ["ysmurl", "ysmhd","ysmbody","ysm2body", "ysmtx","ysmurl2", "ysmhd2","ysmbody2","ysm2body2", "ysmtx2","ysmurl3", "ysmhd3","ysmbody3","ysm2body3","ysmtx3","ysmurl4", "ysmhd4","ysmbody4","ysm2body4","ysmtx4","ysmurl5", "ysmhd5","ysmbody5","ysm2body5","ysmtx5","ysmurl6", "ysmhd6","ysmbody6","ysm2body6","ysmtx6","ysmurl7", "ysmhd7","ysmbody7","ysm2body7","ysmtx7","ysmurl8", "ysmhd8","ysmbody8","ysm2body8","ysmtx8","ysmurl9", "ysmhd9","ysmbody9","ysm2body9","ysmtx9"],
+            "author": "@feizao",
+            "settings": [{
+                    "id": "ysmstatus",
+                    "name": "当前账号",
+                    "val": "1",
+                    "type": "number",
+                    "desc": "当前账号对应"
+                  },
+                  {
+                    "id": "ysmcount",
+                    "name": "账号个数",
+                    "val": "1",
+                    "type": "number",
+                    "desc": "需要几个账号，数字为几"
+           }
+           ],
+            "repo": "https://github.com/age174/-/blob/main/ysm.js",
+            "icons": ["https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Yunsaoma.png", "https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Yunsaoma.png"],
+            "script": "https://raw.githubusercontent.com/age174/-/main/ysm.js"
+           }
      ]
 }
