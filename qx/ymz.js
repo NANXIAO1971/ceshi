@@ -38,18 +38,18 @@ TG电报群: https://t.me/hahaha8028
 
 [rewrite_local]
 #羊毛赚
-^http://ymz.iphonezhuan.com/ url script-request-body https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/Quantumult%20X/ymz.js
+^http://ymz.iphonezhuan.com/ url script-request-body https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/ymz.js
 
 
 
 #loon
-^http://ymz.iphonezhuan.com/ script-path=https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/Quantumult%20X/ymz.js, requires-body=true, timeout=10, tag=羊毛赚
+^http://ymz.iphonezhuan.com/ script-path=https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/ymz.js, requires-body=true, timeout=10, tag=羊毛赚
 
 
 
 #surge
 
-羊毛赚 = type=http-request,pattern=^http://ymz.iphonezhuan.com/,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/Quantumult%20X/ymz.js,script-update-interval=0
+羊毛赚 = type=http-request,pattern=^http://ymz.iphonezhuan.com/,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/ymz.js,script-update-interval=0
 
 
 
