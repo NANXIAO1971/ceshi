@@ -184,16 +184,16 @@
             "script": "https://raw.githubusercontent.com/age174/-/main/fqkk.js"
            },
            {
-            "id": "ysm",
-            "name": "云扫码",
-            "keys": ["ysmurl", "ysmhd","ysmbody","ysm2body", "ysmtx","ysmurl2", "ysmhd2","ysmbody2","ysm2body2", "ysmtx2","ysmurl3", "ysmhd3","ysmbody3","ysm2body3","ysmtx3","ysmurl4", "ysmhd4","ysmbody4","ysm2body4","ysmtx4"],
-            "author": "@LGL",
-            "settings": [{
-                    "id": "ysmstatus",
-                    "name": "当前账号",
-                    "val": "1",
-                    "type": "number",
-                    "desc": "当前账号对应"
+                    "id": "ysm",
+                    "name": "云扫码",
+                    "keys": ["ysmurl", "ysmhd","ysmbody","ysm2body", "ysmtx","ysmurl2", "ysmhd2","ysmbody2","ysm2body2", "ysmtx2","ysmurl3", "ysmhd3","ysmbody3","ysm2body3","ysmtx3","ysmurl4", "ysmhd4","ysmbody4","ysm2body4","ysmtx4"],
+                    "author": "@LGL",
+                    "settings": [{
+                        "id": "ysmstatus",
+                        "name": "当前账号",
+                        "val": "1",
+                        "type": "number",
+                        "desc": "当前账号对应"
                   },
                   {
                     "id": "ysmcount",
@@ -201,11 +201,35 @@
                     "val": "1",
                     "type": "number",
                     "desc": "需要几个账号，数字为几"
-           }
-           ],
+                   }
+                   ],
             "repo": "https://github.com/age174/-/blob/main/ysm.js",
             "icons": ["https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Yunsaoma.png", "https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Yunsaoma.png"],
             "script": "https://raw.githubusercontent.com/age174/-/main/ysm.js"
+           },
+           {
+            "id": "ymz",
+            "name": "羊毛赚",
+            "keys": ["ymzurl","ymzhd","ymzbody","ymzbody1"],
+            "author": "@feizao",
+            "settings": [{
+            "id": "ymzdsetting",
+            "name": "当前账号",
+            "val": "1",
+            "type": "number",
+            "desc": "当前账号对应"
+           },
+           {
+            "id": "ymzdcount",
+            "name": "账号个数",
+            "val": "1",
+            "type": "number",
+            "desc": "需要几个账号，数字为几"
            }
-     ]
+           ],
+            "repo": "https://raw.githubusercontent.com/age174/-/main/ymz.js",
+            "icons": ["https://s3.ax1x.com/2021/02/06/yYzYWR.png", "https://s3.ax1x.com/2021/02/06/yYzYWR.png"],
+            "script": "https://raw.githubusercontent.com/age174/-/main/ymz.js"
+        }     
+    ]
 }
