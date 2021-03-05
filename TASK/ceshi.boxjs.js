@@ -52,9 +52,9 @@
                     "desc": "输入短信验证码，默认为0，不启动获取token功能"
                 }
             ],
-            "repo": "https://raw.githubusercontent.com/eml5ZQ/SmF2YVNjcmlwdA/main/Task/iboxpay.js",
-            "icons": ["https://raw.githubusercontent.com/eml5ZQ/SmF2YVNjcmlwdA/main/Task/iboxpay.png", "https://raw.githubusercontent.com/eml5ZQ/SmF2YVNjcmlwdA/main/Task/iboxpay.png"],
-            "script": "https://raw.githubusercontent.com/eml5ZQ/SmF2YVNjcmlwdA/main/Task/iboxpay.js"
+            "repo": "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/iboxpay.js",
+            "icons": ["https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/iboxpay.png", "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/iboxpay.png"],
+            "script": "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/iboxpay.js"
         },
         {
             "id": "bububao",
@@ -83,9 +83,9 @@
                     "desc": "0不提现，可设置 0 0.3 50 100 200 888  设置888由上至下循环提现 "
                 }
             ],
-            "repo": "https://raw.githubusercontent.com/eml5ZQ/SmF2YVNjcmlwdA/main/Task/bububao.js",
-            "icons": ["https://raw.githubusercontent.com/eml5ZQ/SmF2YVNjcmlwdA/main/Task/bububao.png", "https://raw.githubusercontent.com/eml5ZQ/SmF2YVNjcmlwdA/main/Task/bububao.png"],
-            "script": "https://raw.githubusercontent.com/eml5ZQ/SmF2YVNjcmlwdA/main/Task/bububao.js"
+            "repo": "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/bububao.js",
+            "icons": ["https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/bububao.png", "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/bububao.png"],
+            "script": "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/bububao.js"
         },
         {
             "id": "yuedongzu",
@@ -114,9 +114,9 @@
                     "desc": "0不提现，可设置 0 0.3 1 5 50 100 200 888  设置888由上至下循环提现 "
                 }
             ],
-            "repo": "https://raw.githubusercontent.com/eml5ZQ/SmF2YVNjcmlwdA/main/Task/yuedongzu.js",
-            "icons": ["https://raw.githubusercontent.com/eml5ZQ/SmF2YVNjcmlwdA/main/Task/yuedongzu.png", "https://raw.githubusercontent.com/eml5ZQ/SmF2YVNjcmlwdA/main/Task/yuedongzu.png"],
-            "script": "https://raw.githubusercontent.com/eml5ZQ/SmF2YVNjcmlwdA/main/Task/yuedongzu.js"
+            "repo": "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/yuedongzu.js",
+            "icons": ["https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/yuedongzu.png", "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/yuedongzu.png"],
+            "script": "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/yuedongzu.js"
         },
         {
             "id": "qmyd",
@@ -145,9 +145,9 @@
                     "desc": "0不提现，可设置 0 0.3 1 10 20 30 100 200 300 888  设置888由上至下循环提现 "
                 }
             ],
-            "repo": "https://raw.githubusercontent.com/eml5ZQ/SmF2YVNjcmlwdA/main/Task/qmyd.js",
-            "icons": ["https://raw.githubusercontent.com/eml5ZQ/SmF2YVNjcmlwdA/main/Task/qmyd.png", "https://raw.githubusercontent.com/eml5ZQ/SmF2YVNjcmlwdA/main/Task/qmyd.png"],
-            "script": "https://raw.githubusercontent.com/eml5ZQ/SmF2YVNjcmlwdA/main/Task/qmyd.js"
+            "repo": "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/qmyd.js",
+            "icons": ["https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/qmyd.png", "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/qmyd.png"],
+            "script": "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/qmyd.js"
         },
         {
             "id": "ymz",
