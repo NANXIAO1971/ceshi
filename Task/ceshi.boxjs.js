@@ -149,30 +149,6 @@
             "repo": "https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/qmyd.js",
             "icons": ["https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/qmyd.png", "https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/qmyd.png"],
             "script": "https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/yuedongzu.js"
-                },
-                {
-            "id": "ymz",
-            "name": "羊毛赚",
-            "keys": ["ymzurl","ymzhd","ymzbody","ymzbody1"],
-            "author": "@feizao",
-            "settings": [{
-            "id": "ymzdsetting",
-            "name": "当前账号",
-            "val": "1",
-            "type": "number",
-            "desc": "当前账号对应"
-                },
-                {
-            "id": "ymzdcount",
-            "name": "账号个数",
-            "val": "1",
-            "type": "number",
-            "desc": "需要几个账号，数字为几"
-                }
-            ],
-            "repo": "https://raw.githubusercontent.com/age174/-/main/ymz.js",
-            "icons": ["https://s3.ax1x.com/2021/02/06/yYzYWR.png", "https://s3.ax1x.com/2021/02/06/yYzYWR.png"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/ymz.js"
-     },
-   ]
+         }
+     ]
 }
