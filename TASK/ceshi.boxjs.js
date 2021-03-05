@@ -2,12 +2,12 @@
     "id": "nanxiao1971.app.sub",
     "name": "自用脚本订阅",
     "author": "@NANXIAO1971",
-    "icon": "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/Quantumult%20X/nxtx.png",
+    "icon": "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/nxtx.png",
     "repo": "https://github.com/NANXIAO1971/ceshi",
     "apps": [{
       "id": "iboxpay",
             "name": "笑谱",
-            "keys": ["refreshtoken", "refreshtoken2", "refreshtoken3", "refreshtoken4", "refreshtoken5", "refreshtoken6", "refreshtoken7", "refreshtoken8", "refreshtoken9", "refreshtoken10", "refreshtoken11", "refreshtoken12", "refreshtoken13", "refreshtoken14", "refreshtoken15", "refreshtoken16", "refreshtoken17", "refreshtoken18", "refreshtoken19", "refreshtoken20"],
+            "keys": ["refreshtoken", "refreshtoken2", "refreshtoken3", "refreshtoken4", "refreshtoken5", "refreshtoken6", "refreshtoken7", "refreshtoken8"],
             "author": "@ziye",
             "settings": [{
                     "id": "iboxpaySuffix",
@@ -147,7 +147,7 @@
             ],
             "repo": "https://raw.githubusercontent.com/eml5ZQ/SmF2YVNjcmlwdA/main/Task/qmyd.js",
             "icons": ["https://raw.githubusercontent.com/eml5ZQ/SmF2YVNjcmlwdA/main/Task/qmyd.png", "https://raw.githubusercontent.com/eml5ZQ/SmF2YVNjcmlwdA/main/Task/qmyd.png"],
-            "script": "https://raw.githubusercontent.com/eml5ZQ/SmF2YVNjcmlwdA/main/Task/yuedongzu.js"
+            "script": "https://raw.githubusercontent.com/eml5ZQ/SmF2YVNjcmlwdA/main/Task/qmyd.js"
         },
         {
             "id": "ymz",
