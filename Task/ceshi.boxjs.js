@@ -149,6 +149,39 @@
             "repo": "https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/qmyd.js",
             "icons": ["https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/qmyd.png", "https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/qmyd.png"],
             "script": "https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/yuedongzu.js"
-         }
+         },
+         {
+            "id": "fqkk",
+            "name": "番茄看看",
+            "keys": ["fqkk"],
+            "author": "@feizao",
+            "settings": [{
+                   "id": "fqkkCkMove",
+                   "val": "",
+                   "name": "旧数据迁移",
+                   "type": "boolean",
+                   "desc": "将原先指定账号抓包的数据迁移为自动识别的账号数据，原账号个数设置重置为0"
+              },
+             {
+                   "id": "fqtx",
+                   "name": "提现金额",
+                   "val": "100",
+                   "type": "number",
+                   "desc": "需要自动提现多少，数字为金额的一百倍，如提现0.3元填写30，默认100为提现1元,最低提现额度为0.3元"
+               },
+              {
+                   "id": "fqkk",
+                   "name": "番茄看看CK 列表",
+                   "val": "",
+                   "type": "textarea",
+                   "autoGrow": true,
+                   "rows": 8,
+                   "desc": "番茄看看多账号CK 列表 (JSON 格式)"
+                  }
+            ],
+            "repo": "https://github.com/age174/-/blob/main/fqkk.js",
+            "icons": ["https://ftp.bmp.ovh/imgs/2021/02/f8306006536eb49c.jpeg", "https://ftp.bmp.ovh/imgs/2021/02/f8306006536eb49c.jpeg"],
+            "script": "https://raw.githubusercontent.com/age174/-/main/fqkk.js"
+           }  
      ]
 }
