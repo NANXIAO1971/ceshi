@@ -3,7 +3,7 @@
     "id": "ceshi.app.sub",
     "name": "自用脚本订阅",
     "author": "@NANXIAO1971",
-    "icon": "https://raw.githubusercontent.com/eml5ZQ/SmF2YVNjcmlwdA/main/ziye.png",
+    "icon": "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/Quantumult%20X/nxtx.png",
     "repo": "https://github.com/NANXIAO1971",
     "apps": [{
             "id": "iboxpay",
