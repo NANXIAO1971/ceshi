@@ -8,7 +8,7 @@
     "apps": [{
             "id": "iboxpay",
             "name": "笑谱",
-            "keys": ["refreshtoken", "refreshtoken2", "refreshtoken3", "refreshtoken4", "refreshtoken5", "refreshtoken6", "refreshtoken7", "refreshtoken8", "refreshtoken9", "refreshtoken10", "refreshtoken11", "refreshtoken12", "refreshtoken13", "refreshtoken14", "refreshtoken15", "refreshtoken16", "refreshtoken17", "refreshtoken18", "refreshtoken19", "refreshtoken20"],
+            "keys": ["refreshtoken", "refreshtoken2", "refreshtoken3", "refreshtoken4", "refreshtoken5", "refreshtoken6", "refreshtoken7", "refreshtoken8"],
             "author": "@LGL",
             "settings": [{
                     "id": "iboxpaySuffix",
@@ -60,7 +60,7 @@
         {
             "id": "bububao",
             "name": "步步宝APP",
-            "keys": ["bububaotoken", "bububaotoken2", "bububaotoken3", "bububaotoken4", "bububaotoken5", "bububaotoken6", "bububaotoken7", "bububaotoken8", "bububaotoken9", "bububaotoken10", "bububaotoken11", "bububaotoken12", "bububaotoken13", "bububaotoken14", "bububaotoken15", "bububaotoken16", "bububaotoken17", "bububaotoken18", "bububaotoken19", "bububaotoken20"],
+            "keys": ["bububaotoken", "bububaotoken2", "bububaotoken3", "bububaotoken4", "bububaotoken5", "bububaotoken6", "bububaotoken7", "bububaotoken8"],
             "author": "@LGL",
             "settings": [{
                     "id": "bububaoSuffix",
@@ -91,7 +91,7 @@
         {
             "id": "yuedongzu",
             "name": "悦动族APP",
-            "keys": ["yuedongzutoken", "yuedongzutoken2", "yuedongzutoken3", "yuedongzutoken4", "yuedongzutoken5", "yuedongzutoken6", "yuedongzutoken7", "yuedongzutoken8", "yuedongzutoken9", "yuedongzutoken10", "yuedongzutoken11", "yuedongzutoken12", "yuedongzutoken13", "yuedongzutoken14", "yuedongzutoken15", "yuedongzutoken16", "yuedongzutoken17", "yuedongzutoken18", "yuedongzutoken19", "yuedongzutoken20"],
+            "keys": ["yuedongzutoken", "yuedongzutoken2", "yuedongzutoken3", "yuedongzutoken4", "yuedongzutoken5", "yuedongzutoken6", "yuedongzutoken7", "yuedongzutoken8"],
             "author": "@LGL",
             "settings": [{
                     "id": "yuedongzuSuffix",
@@ -122,7 +122,7 @@
         {
             "id": "qmyd",
             "name": "全民悦动APP",
-            "keys": ["qmydtoken", "qmydtoken2", "qmydtoken3", "qmydtoken4", "qmydtoken5", "qmydtoken6", "qmydtoken7", "qmydtoken8", "qmydtoken9", "qmydtoken10", "qmydtoken11", "qmydtoken12", "qmydtoken13", "qmydtoken14", "qmydtoken15", "qmydtoken16", "qmydtoken17", "qmydtoken18", "qmydtoken19", "qmydtoken20"],
+            "keys": ["qmydtoken", "qmydtoken2", "qmydtoken3", "qmydtoken4", "qmydtoken5", "qmydtoken6", "qmydtoken7", "qmydtoken8"],
             "author": "@LGL",
             "settings": [{
                     "id": "qmydSuffix",
@@ -186,7 +186,7 @@
            {
             "id": "ysm",
             "name": "云扫码",
-            "keys": ["ysmurl", "ysmhd","ysmbody","ysm2body", "ysmtx","ysmurl2", "ysmhd2","ysmbody2","ysm2body2", "ysmtx2","ysmurl3", "ysmhd3","ysmbody3","ysm2body3","ysmtx3","ysmurl4", "ysmhd4","ysmbody4","ysm2body4","ysmtx4","ysmurl5", "ysmhd5","ysmbody5","ysm2body5","ysmtx5","ysmurl6", "ysmhd6","ysmbody6","ysm2body6","ysmtx6","ysmurl7", "ysmhd7","ysmbody7","ysm2body7","ysmtx7","ysmurl8", "ysmhd8","ysmbody8","ysm2body8","ysmtx8","ysmurl9", "ysmhd9","ysmbody9","ysm2body9","ysmtx9"],
+            "keys": ["ysmurl", "ysmhd","ysmbody","ysm2body", "ysmtx","ysmurl2", "ysmhd2","ysmbody2","ysm2body2", "ysmtx2","ysmurl3", "ysmhd3","ysmbody3","ysm2body3","ysmtx3","ysmurl4", "ysmhd4","ysmbody4","ysm2body4","ysmtx4"],
             "author": "@LGL",
             "settings": [{
                     "id": "ysmstatus",
