@@ -4,7 +4,7 @@
     "name": "自用脚本订阅",
     "author": "@NANXIAO",
     "icon": "https://raw.githubusercontent.com/eml5ZQ/SmF2YVNjcmlwdA/main/ziye.png",
-    "repo": "https://github.com/NANXIAO",
+    "repo": "https://github.com/NANXIAO1971",
     "apps": [{
             "id": "iboxpay",
             "name": "笑谱",
