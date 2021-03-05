@@ -149,8 +149,8 @@
             "repo": "https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/qmyd.js",
             "icons": ["https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/qmyd.png", "https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/qmyd.png"],
             "script": "https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/yuedongzu.js"
-        },
-        {
+                },
+                {
             "id": "ymz",
             "name": "羊毛赚",
             "keys": ["ymzurl","ymzhd","ymzbody","ymzbody1"],
