@@ -1,9 +1,9 @@
 {
-    "id": "ziye.app.sub",
-    "name": "ziye 脚本订阅",
-    "author": "@ZIYE",
-    "icon": "https://raw.githubusercontent.com/eml5ZQ/SmF2YVNjcmlwdA/main/ziye.png",
-    "repo": "https://github.com/eml5ZQ",
+    "id": "nanxiao1971.app.sub",
+    "name": "自用脚本订阅",
+    "author": "@NANXIAO1971",
+    "icon": "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/Quantumult%20X/nxtx.png",
+    "repo": "https://github.com/NANXIAO1971",
     "apps": [{
       "id": "iboxpay",
             "name": "笑谱",
@@ -121,7 +121,7 @@
         {
             "id": "qmyd",
             "name": "全民悦动APP",
-            "keys": ["qmydtoken", "qmydtoken2", "qmydtoken3", "qmydtoken4", "qmydtoken5", "qmydtoken6", "qmydtoken7", "qmydtoken8", "qmydtoken9", "qmydtoken10", "qmydtoken11", "qmydtoken12", "qmydtoken13", "qmydtoken14", "qmydtoken15", "qmydtoken16", "qmydtoken17", "qmydtoken18", "qmydtoken19", "qmydtoken20"],
+            "keys": ["qmydtoken", "qmydtoken2", "qmydtoken3", "qmydtoken4", "qmydtoken5", "qmydtoken6", "qmydtoken7", "qmydtoken8"],
             "author": "@ziye",
             "settings": [{
                     "id": "qmydSuffix",
