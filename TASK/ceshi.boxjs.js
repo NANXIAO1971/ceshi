@@ -169,9 +169,9 @@
                     "desc": "需要几个账号，数字为几"
                 }
             ],
-            "repo": "https://raw.githubusercontent.com/age174/-/main/ymz.js",
+            "repo": "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/Quantumult%20X/ymz.js",
             "icons": ["https://s3.ax1x.com/2021/02/06/yYzYWR.png", "https://s3.ax1x.com/2021/02/06/yYzYWR.png"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/ymz.js"
+            "script": "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/Quantumult%20X/ymz.js"
         },
         {
             "id": "fqkk",
