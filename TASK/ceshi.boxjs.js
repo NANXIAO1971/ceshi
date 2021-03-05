@@ -237,27 +237,27 @@
               "icons": ["https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Yunsaoma.png", "https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Yunsaoma.png"],
               "script": "https://raw.githubusercontent.com/age174/-/main/ysm.js"
          },
-         	{
-      "author": "@sunert", 
-      "descs_html": [
-        "<h4 align=\"center\">获取Cookie以及脚本配置请查看<a href=\"https://github.com/Sunert/Scripts/raw/master/TaskConf/youth/readme.md\">配置说明</a></h4>", 
-        "<br />", 
-        "<p>其中<font color='#FF0000',font-weight: bold>zq_nick、zqcash</font>和<font color='#FF0000',font-weight: bold>zqcard</font>为昵称、提现金额和早起打卡开关，无需另外获取，相关项设置后自动生成，cashurl_zq和cashbody_zq为提现请求，获取后方可自动提现，可选</p>"
-      ], 
-      "keys": [
-        "zq_nick", 
-        "youthheader_zq", 
-        "read_zq", 
-        "readtime_zq", 
-        "cashurl_zq", 
-        "cashbody_zq", 
-        "zqcash", 
-        "zqcard"
-      ], 
-      "repo": "https://github.com/Sunert/Scripts/blob/master/Task/youth.js", 
-      "id": "youth", 
-      "script": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js", 
-      "settings": [
+         {
+            "author": "@sunert", 
+            "descs_html": [
+            "<h4 align=\"center\">获取Cookie以及脚本配置请查看<a href=\"https://github.com/Sunert/Scripts/raw/master/TaskConf/youth/readme.md\">配置说明</a></h4>", 
+            "<br />", 
+            "<p>其中<font color='#FF0000',font-weight: bold>zq_nick、zqcash</font>和<font color='#FF0000',font-weight: bold>zqcard</font>为昵称、提现金额和早起打卡开关，无需另外获取，相关项设置后自动生成，cashurl_zq和cashbody_zq为提现请求，获取后方可自动提现，可选</p>"
+         ], 
+            "keys": [
+            "zq_nick", 
+            "youthheader_zq", 
+            "read_zq", 
+            "readtime_zq", 
+            "cashurl_zq", 
+            "cashbody_zq", 
+            "zqcash", 
+            "zqcard"
+        ], 
+        "repo": "https://github.com/Sunert/Scripts/blob/master/Task/youth.js", 
+        "id": "youth", 
+        "script": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js", 
+        "settings": [
         {
           "id": "zqcard", 
           "val": "false", 
