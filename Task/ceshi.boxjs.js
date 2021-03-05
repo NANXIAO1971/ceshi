@@ -161,8 +161,8 @@
             "val": "1",
             "type": "number",
             "desc": "当前账号对应"
-    },
-    {
+                },
+                {
             "id": "ymzdcount",
             "name": "账号个数",
             "val": "1",
