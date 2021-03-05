@@ -33,23 +33,23 @@ TG电报群: https://t.me/hahaha8028
 圈X配置如下，其他软件自行测试，羊毛赚没有任务界面请务必复制上面的二维码链接到浏览器打开保存扫码，然后到扫码结果上打开
 [task_local]
 #羊毛赚
-15 10 * * * https://raw.githubusercontent.com/age174/-/main/ymz.js, tag=羊毛赚, img-url=https://s3.ax1x.com/2021/02/06/yYzYWR.png, enabled=true
+15 10 * * * https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/Quantumult%20X/ymz.js, tag=羊毛赚, img-url=https://s3.ax1x.com/2021/02/06/yYzYWR.png, enabled=true
 
 
 [rewrite_local]
 #羊毛赚
-^http://ymz.iphonezhuan.com/ url script-request-body https://raw.githubusercontent.com/age174/-/main/ymz.js
+^http://ymz.iphonezhuan.com/ url script-request-body https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/Quantumult%20X/ymz.js
 
 
 
 #loon
-^http://ymz.iphonezhuan.com/ script-path=https://raw.githubusercontent.com/age174/-/main/ymz.js, requires-body=true, timeout=10, tag=羊毛赚
+^http://ymz.iphonezhuan.com/ script-path=https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/Quantumult%20X/ymz.js, requires-body=true, timeout=10, tag=羊毛赚
 
 
 
 #surge
 
-羊毛赚 = type=http-request,pattern=^http://ymz.iphonezhuan.com/,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/age174/-/main/ymz.js,script-update-interval=0
+羊毛赚 = type=http-request,pattern=^http://ymz.iphonezhuan.com/,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/Quantumult%20X/ymz.js,script-update-interval=0
 
 
 
