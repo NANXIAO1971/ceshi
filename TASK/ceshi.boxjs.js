@@ -385,7 +385,7 @@
         }
       ],
       "author": "@lxk0301",
-      "repo": "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main",
+      "repo": "https://github.com/NANXIAO1971/ceshi/blob/main/qx/xmSports.js",
       "script": "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/xmSports.js",
       "icons": [
         "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/xmyd_mini.png",
