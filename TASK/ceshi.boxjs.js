@@ -385,11 +385,11 @@
         }
       ],
       "author": "@lxk0301",
-      "repo": "https://gitee.com/lxk0301/jd_scripts/tree/master",
-      "script": "https://jdsharedresourcescdn.azureedge.net/jdresource/xmSports.js",
+      "repo": "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main",
+      "script": "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/xmSports.js",
       "icons": [
-        "https://raw.githubusercontent.com/58xinian/icon/master/xmyd_mini.png",
-        "https://raw.githubusercontent.com/58xinian/icon/master/xmyd.png"
+        "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/xmyd_mini.png",
+        "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/xmyd.png"
       ]
     }
   ]
