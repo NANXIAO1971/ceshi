@@ -420,9 +420,9 @@
                     "desc": "0关闭 1开启,默认关闭"
                 }
         ],
-        "repo": "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/shuqi.js",
-        "icons": ["https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/shuqi.png", "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/shuqi.png"],
-        "script": "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/yuedongzu.js"
+        "repo": "https://raw.githubusercontent.com/NANXIAO1971/ZYJB/master/Task/shuqi.js",
+        "icons": ["https://raw.githubusercontent.com/NANXIAO1971/ZYJB/master/Task/shuqi.png", "https://raw.githubusercontent.com/NANXIAO1971/ZYJB/master/Task/shuqi.png"],
+        "script": "https://raw.githubusercontent.com/NANXIAO1971/ZYJB/master/Task/shuqi.js"
     }
   ]
 }
