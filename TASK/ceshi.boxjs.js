@@ -233,9 +233,9 @@
                     "desc": "需要几个账号，数字为几"
                 }
               ],  
-              "repo": "https://github.com/age174/-/blob/main/ysm.js",
+              "repo": "https://raw.githubusercontent.com/NANXIAO1971/FQKK/master/ysm.js",
               "icons": ["https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Yunsaoma.png", "https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Yunsaoma.png"],
-              "script": "https://raw.githubusercontent.com/age174/-/main/ysm.js"
+              "script": "https://raw.githubusercontent.com/NANXIAO1971/FQKK/master/ysm.js"
          },
          {
             "author": "@sunert", 
