@@ -209,9 +209,9 @@
                     "desc": "番茄看看CK 列表 (JSON 格式)"
                 }
             ],
-            "repo": "https://github.com/age174/-/blob/main/fqkk.js",
+            "repo": "https://raw.githubusercontent.com/NANXIAO1971/FQKK/master/fqkk.js",
             "icons": ["https://ftp.bmp.ovh/imgs/2021/02/f8306006536eb49c.jpeg", "https://ftp.bmp.ovh/imgs/2021/02/f8306006536eb49c.jpeg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/fqkk.js"
+            "script": "https://raw.githubusercontent.com/NANXIAO1971/FQKK/master/fqkk.js"
         },
         {
             "id": "ysm",
