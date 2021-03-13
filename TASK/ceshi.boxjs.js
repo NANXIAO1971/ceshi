@@ -52,9 +52,9 @@
                     "desc": "输入短信验证码，默认为0，不启动获取token功能"
                 }
             ],
-            "repo": "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/iboxpay.js",
-            "icons": ["https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/iboxpay.png", "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/iboxpay.png"],
-            "script": "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/iboxpay.js"
+            "repo": "https://raw.githubusercontent.com/NANXIAO1971/ZYJB/master/Task/iboxpay.js",
+            "icons": ["https://raw.githubusercontent.com/NANXIAO1971/ZYJB/master/Task/iboxpay.png", "https://raw.githubusercontent.com/NANXIAO1971/ZYJB/master/Task/iboxpay.png"],
+            "script": "https://raw.githubusercontent.com/NANXIAO1971/ZYJB/master/Task/iboxpay.js"
         },
         {
             "id": "bububao",
