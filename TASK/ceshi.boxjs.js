@@ -114,9 +114,9 @@
                     "desc": "0不提现，可设置 0 0.3 1 5 50 100 200 888  设置888由上至下循环提现 "
                 }
             ],
-            "repo": "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/yuedongzu.js",
-            "icons": ["https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/yuedongzu.png", "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/yuedongzu.png"],
-            "script": "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/yuedongzu.js"
+            "repo": "https://raw.githubusercontent.com/NANXIAO1971/ZYJB/master/Task/yuedongzu.js",
+            "icons": ["https://raw.githubusercontent.com/NANXIAO1971/ZYJB/master/Task/yuedongzu.png", "https://raw.githubusercontent.com/NANXIAO1971/ZYJB/master/Task/yuedongzu.png"],
+            "script": "https://raw.githubusercontent.com/NANXIAO1971/ZYJB/master/Task/yuedongzu.js"
         },
         {
             "id": "qmyd",
