@@ -391,38 +391,6 @@
         "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/xmyd_mini.png",
         "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/xmyd.png"
       ]
-    },
-    {
-            "id": "shuqi",
-            "name": "书旗小说APP",
-            "keys": ["shuqiuserurl", "shuqisyurl", "shuqisybody", "shuqispbody", "shuqiscbody", "shuqiydbody", "shuqiqdbody",   "shuqirwbody", "shuqifxbody", "shuqisprwurl", "shuqijlbody", "shuqisqjlbody", "shuqicjyurl", "shuqicjcsbody", "shuqicjbody", "shuqijsspbody", "shuqijsydurl", "shuqijsydbody", "shuqijsqdbody", "shuqijsqdspyurl", "shuqijsqdspbody",   "shuqijsrwbody", "shuqijsfxbody", "shuqijsbookurl", "shuqijsbookbody", "shuqijssprwurl", "shuqiuserurl2", "shuqisyurl2", "shuqisybody2", "shuqispbody2", "shuqiscbody2", "shuqiydbody2", "shuqiqdbody2",   "shuqirwbody2", "shuqifxbody2", "shuqisprwurl2", "shuqijlbody2", "shuqisqjlbody2", "shuqicjyurl2", "shuqicjcsbody2", "shuqicjbody2", "shuqijsspbody2", "shuqijsydurl2", "shuqijsydbody2", "shuqijsqdbody2", "shuqijsqdspyurl2", "shuqijsqdspbody2",   "shuqijsrwbody2", "shuqijsfxbody2", "shuqijsbookurl2", "shuqijsbookbody2", "shuqijssprwurl2"],
-            "author": "@ziye",
-            "settings": [
-				{
-                    "id": "shuqiSuffix",
-                    "name": "当前账号",
-                    "val": "1",
-                    "type": "number",
-                    "desc": "当前抓取ck记录的账号序号，如：1、2、3、"
-                },
-                {
-                    "id": "shuqiCount",
-                    "name": "账号个数",
-                    "val": "1",
-                    "type": "number",
-                    "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
-                },
-                {
-                    "id": "shuqiXH",
-                    "name": "循环获取CK",
-                    "val": "0",
-                    "type": "number",
-                    "desc": "0关闭 1开启,默认关闭"
-                }
-        ],
-        "repo": "https://raw.githubusercontent.com/NANXIAO1971/ZYJB/master/Task/shuqi.js",
-        "icons": ["https://raw.githubusercontent.com/NANXIAO1971/ZYJB/master/Task/shuqi.png", "https://raw.githubusercontent.com/NANXIAO1971/ZYJB/master/Task/shuqi.png"],
-        "script": "https://raw.githubusercontent.com/NANXIAO1971/ZYJB/master/Task/shuqi.js"
     }
   ]
 }
