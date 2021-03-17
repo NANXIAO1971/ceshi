@@ -423,6 +423,29 @@
         "repo": "https://raw.githubusercontent.com/NANXIAO1971/ZYJB/master/Task/shuqi.js",
         "icons": ["https://raw.githubusercontent.com/NANXIAO1971/ZYJB/master/Task/shuqi.png", "https://raw.githubusercontent.com/NANXIAO1971/ZYJB/master/Task/shuqi.png"],
         "script": "https://raw.githubusercontent.com/NANXIAO1971/ZYJB/master/Task/shuqi.js"
+    },
+     {
+            "id": "yggy",
+            "name": "阳光果园",
+            "keys": ["yggybody", "yggyhd", "yggybody2","yggyhd2", "yggybody3", "yggyhd3","yggybody4", "yggyhd4"],
+            "author": "@feizao",
+            "settings": [{
+            "id": "yggystatus",
+            "name": "当前账号",
+            "val": "1",
+            "type": "number",
+            "desc": "当前账号对应"
+    },
+    {
+            "id": "yggycount",
+            "name": "账号个数",
+            "val": "1",
+            "type": "number",
+            "desc": "需要几个账号，数字为几"
+    }],
+            "repo": "https://github.com/age174/-/blob/main/yggy.js",
+            "icons": ["https://ae01.alicdn.com/kf/Ubf3bd5e9c2414c18a96a3a2b20a9d2c5C.jpg", "https://ae01.alicdn.com/kf/Ubf3bd5e9c2414c18a96a3a2b20a9d2c5C.jpg"],
+            "script": "https://raw.githubusercontent.com/age174/-/main/yggy.js"
     }
   ]
 }
