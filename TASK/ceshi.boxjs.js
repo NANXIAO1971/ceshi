@@ -7,7 +7,7 @@
     "apps": [{
             "id": "iboxpay",
             "name": "笑谱",
-            "keys": ["refreshtoken", "iboxpayvideoheader", "iboxpayvideobody", "refreshtoken2", "iboxpayvideoheader2", "iboxpayvideobody2", "refreshtoken3", "iboxpayvideoheader3", "iboxpayvideobody3", "refreshtoken4", "iboxpayvideoheader4", "iboxpayvideobody4", "refreshtoken5", "iboxpayvideoheader5", "iboxpayvideobody5", "refreshtoken6", "iboxpayvideoheader6", "iboxpayvideobody6", "refreshtoken7", "iboxpayvideoheader7", "iboxpayvideobody7", "refreshtoken8", "iboxpayvideoheader8", "iboxpayvideobody8", "refreshtoken9", "iboxpayvideoheader9", "iboxpayvideobody9", "refreshtoken10", "iboxpayvideoheader10", "iboxpayvideobody10", "refreshtoken11", "iboxpayvideoheader11", "iboxpayvideobody11", "refreshtoken12", "iboxpayvideoheader12", "iboxpayvideobody12", "refreshtoken13", "iboxpayvideoheader13", "iboxpayvideobody13", "refreshtoken14", "iboxpayvideoheader14", "iboxpayvideobody14", "refreshtoken15", "iboxpayvideoheader15", "iboxpayvideobody15", "refreshtoken16", "iboxpayvideoheader16", "iboxpayvideobody16", "refreshtoken17", "iboxpayvideoheader17", "iboxpayvideobody17", "refreshtoken18", "iboxpayvideoheader18", "iboxpayvideobody18", "refreshtoken19", "iboxpayvideoheader19", "iboxpayvideobody19", "refreshtoken20", "iboxpayvideoheader20", "iboxpayvideobody20"],
+            "keys": ["refreshtoken", "iboxpayvideoheader", "iboxpayvideobody", "refreshtoken2", "iboxpayvideoheader2", "iboxpayvideobody2", "refreshtoken3", "iboxpayvideoheader3", "iboxpayvideobody3", "refreshtoken4", "iboxpayvideoheader4", "iboxpayvideobody4", "refreshtoken5", "iboxpayvideoheader5", "iboxpayvideobody5", "refreshtoken6", "iboxpayvideoheader6", "iboxpayvideobody6"],
             "author": "@ziye",
             "settings": [{
                     "id": "iboxpaySuffix",
@@ -52,9 +52,9 @@
                     "desc": "输入短信验证码，默认为0，不启动获取token功能"
                 }
             ],
-            "repo": "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/iboxpay.js",
-            "icons": ["https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/iboxpay.png", "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/iboxpay.png"],
-            "script": "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/iboxpay.js"
+            "repo": "https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/iboxpay.js",
+            "icons": ["https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/iboxpay.png", "https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/iboxpay.png"],
+            "script": "https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/iboxpay.js"
         },
         {
             "id": "bububao",
