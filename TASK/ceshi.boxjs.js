@@ -216,27 +216,55 @@
         {
             "id": "ysm",
             "name": "云扫码",
-            "keys": ["ysmurl", "ysmhd","ysmbody","ysm2body", "ysmtx","ysmurl2", "ysmhd2","ysmbody2","ysm2body2", "ysmtx2","ysmurl3", "ysmhd3","ysmbody3","ysm2body3","ysmtx3","ysmurl4", "ysmhd4","ysmbody4","ysm2body4","ysmtx4"],
+            "keys": ["ysm"],
             "author": "@feizao",
+            "descs_html": [
+              "优化后的脚本存储ck的数据结构跟原先的不同，需要转换下或重新抓数据",
+              "转换步骤：1、NE工具（QX、Loon、Surge）中进入脚本编辑界面，手动修改变量 moveData=1 后直接执行一次即可",
+              "抓包备注：1、脚本已根据ck数据中的账户特征做区分，无需指定抓包账户及账户个数；2、扫码进入云扫码主页面后即可抓到脚本所需的全部数据"
+            ],
             "settings": [{
-                    "id": "ysmstatus",
-                    "name": "当前账号",
-                    "val": "1",
-                    "type": "number",
-                    "desc": "当前账号对应"
-                },
-                {       
-                    "id": "ysmcount",
-                    "name": "账号个数",
-                    "val": "1",
-                    "type": "number",
-                    "desc": "需要几个账号，数字为几"
-                }
-              ],  
-              "repo": "https://raw.githubusercontent.com/NANXIAO1971/FQKK/master/ysm.js",
-              "icons": ["https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Yunsaoma.png", "https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Yunsaoma.png"],
-              "script": "https://raw.githubusercontent.com/NANXIAO1971/FQKK/master/ysm.js"
-         },
+                "id": "ysmNotice",
+                "val": "",
+                "name": "是否通知",
+                "type": "boolean",
+                "desc": "开启该选项时，脚本执行完会发通知，否则只打印日志"
+              }, {
+                "id": "ysmBanfirstTask",
+                "val": "",
+                "name": "限制脚本跑每日首次任务",
+                "type": "boolean",
+                "desc": "开启该选项时，每需手动阅读一次文章后脚本才能正常执行任务，尽量避免因脚本跑首次任务遭微信限制的情况"
+              }, {
+                "id": "ysmBanhalfTask",
+                "val": "",
+                "name": "限制脚本跑每日第50篇任务",
+                "type": "boolean",
+                "desc": "开启该选项时，脚本做完第50篇任务时会自动结束任务，可手动去阅读2篇避免被限制或再次运行脚本可继续做其余任务"
+              }, {
+                "id": "ysmConcurrency",
+                "val": "1",
+                "name": "并发执行账号数",
+                "type": "text",
+                "desc": "默认单账号跑任务，指定大于1的数值时，将并发执行多个账号的任务，请勿设置过大，避免NE工具崩溃（太大估计会崩溃吧）"
+              }, {
+                "id": "ysmtxAmt",
+                "name": "提现金额",
+                "val": "3000",
+                "type": "number",
+                "desc": "需要自动提现多少，数字为金额的一万倍，如提现1元填写10000，默认提现0.3,最低提现额度为0.3元"
+                }, {
+                  "id": "ysm",
+                  "name": "CK 列表",
+                  "val": "",
+                  "type": "textarea",
+                  "rows": 8,
+                  "desc": "云扫码CK 列表 (JSON 格式)"
+              }],
+            "repo": "https://github.com/age174/-/blob/main/ysm.js",
+            "icons": ["https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Yunsaoma.png", "https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Yunsaoma.png"],
+            "script": "https://raw.githubusercontent.com/age174/-/main/ysm.js"
+    	 } ,
          {
             "author": "@sunert", 
             "descs_html": [
