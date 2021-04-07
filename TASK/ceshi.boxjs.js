@@ -474,6 +474,57 @@
             "repo": "https://github.com/age174/-/blob/main/yggy.js",
             "icons": ["https://ae01.alicdn.com/kf/Ubf3bd5e9c2414c18a96a3a2b20a9d2c5C.jpg", "https://ae01.alicdn.com/kf/Ubf3bd5e9c2414c18a96a3a2b20a9d2c5C.jpg"],
             "script": "https://raw.githubusercontent.com/age174/-/main/yggy.js"
+    },
+    {
+    "id": "dyjsb",
+    "name": "抖音极速版",
+    "keys": ["signheader", "signcookie", "stepheader", "stepkey", "readheader", "readkey","signheader2", "signcookie2", "stepheader2", "stepkey2", "readheader2", "readkey2"],
+    "author": "@ZhiYi-N",
+    "settings": [{
+            "id": "dyhost",
+            "name": "抖音极速版域名",
+            "val": "",
+            "type": "string",
+            "desc": ""
+        },
+         {
+        "id": "dyjsbaccount0",
+        "name": "支付宝账号1",
+        "val": "0",
+        "type": "number",
+        "desc": "测试的为手机号，邮箱不知道（为适应for循环，被迫命名dyjsbaccount0）"
+      },
+          {
+        "id": "dyjsbaccount1",
+        "name": "支付宝账号2",
+        "val": "0",
+        "type": "number",
+        "desc": "测试的为手机号，邮箱不知道"
+      },
+         {
+            "id": "tz",
+            "name": "静默运行",
+            "val": "1",
+            "type": "number",
+            "desc": "0为不通知，1为全部通知"
+        },
+      {
+        "id": "dyjsbsetting",
+        "name": "当前账号",
+        "val": "1",
+        "type": "number",
+        "desc": "当前账号对应"
+      }, 
+      {
+        "id": "dyjsbcount",
+        "name": "账号个数",
+        "val": "1",
+        "type": "number",
+        "desc": "需要几个账号，数字为几"
+      }],
+    "repo": "https://github.com/ZhiYi-N/Private-Script/blob/master/Scripts/dyjsb.js",
+    "icons": ["https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/img/dyjsb-mini.png", "https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/img/dyjsb.png"],
+    "script": "https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/dyjsb.js"
     }
   ]
 }
