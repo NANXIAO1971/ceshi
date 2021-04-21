@@ -15,7 +15,7 @@
 
 [rewrite_local]
 #快乐猜歌无限刷
-https://bp-api.coohua.com/bubuduo-klcg/game/answer/reward? url script-request-body https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/klcg.js
+https://bp-api.coohua.com/bubuduo-klcg/game/answer/reward? url script-request-header https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/klcg.js
 
 
 [MITM]
