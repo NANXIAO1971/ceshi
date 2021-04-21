@@ -612,6 +612,29 @@
             "repo": "https://github.com/age174/-/blob/main/shq.js",
             "icons": ["https://ftp.bmp.ovh/imgs/2021/04/e2b32e2eb2ad0cd3.png", "https://ftp.bmp.ovh/imgs/2021/04/e2b32e2eb2ad0cd3.png"],
             "script": "https://raw.githubusercontent.com/age174/-/main/shq.js"
+    },
+    {
+            "id": "xbgg",
+            "name": "讯播广告",
+            "keys": ["xbggurl","xbgghd", "xbggurl2","xbgghd2","xbggurl3","xbgghd3","xbggurl4","xbgghd4","xbggurl5","xbgghd5"],
+            "author": "@feizao",
+            "settings": [{
+            "id": "xbggstatus",
+            "name": "当前账号",
+            "val": "1",
+            "type": "number",
+            "desc": "当前账号对应"
+    },
+    {
+            "id": "xbggcount",
+            "name": "账号个数",
+            "val": "1",
+            "type": "number",
+            "desc": "需要几个账号，数字为几"
+    }],
+            "repo": "https://github.com/NANXIAO1971/ceshi/main/qx/xbgg.js",
+            "icons": ["https://ae01.alicdn.com/kf/U466ffce93b584c5babd1127f32f5ddebX.jpg", "https://ae01.alicdn.com/kf/U466ffce93b584c5babd1127f32f5ddebX.jpg"],
+            "script": "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/xbgg.js"
     }
   ]
 }
