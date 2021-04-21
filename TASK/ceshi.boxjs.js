@@ -261,9 +261,9 @@
                   "rows": 8,
                   "desc": "云扫码CK 列表 (JSON 格式)"
               }],
-            "repo": "https://github.com/age174/-/blob/main/ysm.js",
+            "repo": "https://github.com/NANXIAO1971/ceshi/blob/main/qx/ysmxf.js",
             "icons": ["https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Yunsaoma.png", "https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Yunsaoma.png"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/ysm.js"
+            "script": "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/ysmxf.js"
     	 } ,
          {
             "author": "@sunert", 
