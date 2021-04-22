@@ -586,7 +586,7 @@
     {
             "id": "shq",
             "name": "生活圈",
-            "keys": ["shqurl", "shqhd", "shqurl2", "shqhd2","shqurl3", "shqhd3","shqurl4", "shqhd4","shqurl5", "shqhd5","shqurl6", "shqhd6","shqurl7", "shqhd7","shqurl8", "shqhd8","shqurl9", "shqhd9","shqurl10", "shqhd10","shqurl11", "shqhd11"],
+            "keys": ["shqurl", "shqhd", "shqurl2", "shqhd2","shqurl3", "shqhd3","shqurl4", "shqhd4"],
             "author": "@feizao",
             "settings": [{
             "id": "shqstatus",
@@ -660,6 +660,29 @@
             "repo": "https://github.com/age174/-/blob/main/yqzh.js",
             "icons": ["https://ae01.alicdn.com/kf/U428ddcb68e304bc0822743cad88f5142n.jpg", "https://ae01.alicdn.com/kf/U428ddcb68e304bc0822743cad88f5142n.jpg"],
             "script": "https://raw.githubusercontent.com/age174/-/main/yqzh.js"
-    }
+    },
+    {
+            "id": "ximei",
+            "name": "西梅",
+            "keys": ["ximeiurl", "ximeihd", "ximeiurl2", "ximeihd2","ximeiurl3", "ximeihd3","ximeiurl4", "ximeihd4"],
+            "author": "@feizao",
+            "settings": [{
+            "id": "ximeistatus",
+            "name": "当前账号",
+            "val": "1",
+            "type": "number",
+            "desc": "当前账号对应"
+    },
+    {
+            "id": "ximeicount",
+            "name": "账号个数",
+            "val": "1",
+            "type": "number",
+            "desc": "需要几个账号，数字为几"
+    }],
+            "repo": "https://github.com/age174/-/blob/main/ximei.js",
+            "icons": ["https://ae01.alicdn.com/kf/Ucd02ea79ef22473daf3576486d134509Q.jpg", "https://ae01.alicdn.com/kf/Ucd02ea79ef22473daf3576486d134509Q.jpg"],
+            "script": "https://raw.githubusercontent.com/age174/-/main/ximei.js"
+    } ,
   ]
 }
