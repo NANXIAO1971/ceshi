@@ -683,6 +683,6 @@
             "repo": "https://github.com/age174/-/blob/main/ximei.js",
             "icons": ["https://ae01.alicdn.com/kf/Ucd02ea79ef22473daf3576486d134509Q.jpg", "https://ae01.alicdn.com/kf/Ucd02ea79ef22473daf3576486d134509Q.jpg"],
             "script": "https://raw.githubusercontent.com/age174/-/main/ximei.js"
-    } ,
+    }
   ]
 }
