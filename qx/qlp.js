@@ -21,18 +21,18 @@ https://raw.githubusercontent.com/age174/-/main/feizao.box.json
 圈X配置如下，其他软件自行测试
 [task_local]
 #考状元娶老婆
-10 0-23 * * * https://github.com/NANXIAO1971/ceshi/blob/main/qx/qlp.js, tag=考状元娶老婆, img-url=https://ae01.alicdn.com/kf/Uc2775b8f4abf41788ba89df0317e58050.jpg, enabled=true
+10 0-23 * * * https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/qlp.js, tag=考状元娶老婆, img-url=https://ae01.alicdn.com/kf/Uc2775b8f4abf41788ba89df0317e58050.jpg, enabled=true
 
 
 [rewrite_local]
 #考状元娶老婆
-https://ibestfanli.com/commerce_coin_service/api/user/coin/addCoin url script-request-header https://github.com/NANXIAO1971/ceshi/blob/main/qx/qlp.js
+https://ibestfanli.com/commerce_coin_service/api/user/coin/addCoin url script-request-header https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/qlp.js
 
 #loon
-https://ibestfanli.com/commerce_coin_service/api/user/coin/addCoin script-path=https://github.com/NANXIAO1971/ceshi/blob/main/qx/qlp.js, requires-header=true, timeout=10, tag=考状元娶老婆
+https://ibestfanli.com/commerce_coin_service/api/user/coin/addCoin script-path=https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/qlp.js, requires-header=true, timeout=10, tag=考状元娶老婆
 
 #surge
-考状元娶老婆 = type=http-request,pattern=https://ibestfanli.com/commerce_coin_service/api/user/coin/addCoin,requires-header=1,max-size=0,script-path=https://github.com/NANXIAO1971/ceshi/blob/main/qx/qlp.js,script-update-interval=0
+考状元娶老婆 = type=http-request,pattern=https://ibestfanli.com/commerce_coin_service/api/user/coin/addCoin,requires-header=1,max-size=0,script-path=https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/qlp.js,script-update-interval=0
 
 [MITM]
 hostname = ibestfanli.com
