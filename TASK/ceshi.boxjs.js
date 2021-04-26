@@ -703,9 +703,9 @@
             "type": "number",
             "desc": "需要几个账号，数字为几"
     }],
-            "repo": "https://github.com/age174/-/blob/main/qlp.js",
+            "repo": "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/qlp.js",
             "icons": ["https://ae01.alicdn.com/kf/Uc2775b8f4abf41788ba89df0317e58050.jpg", "https://ae01.alicdn.com/kf/Uc2775b8f4abf41788ba89df0317e58050.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/qlp.js"
+            "script": "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/qlp.js"
     } 
   ]
 }
