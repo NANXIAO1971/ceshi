@@ -499,6 +499,29 @@
             "repo": "https://github.com/age174/-/blob/main/qhyd.js",
             "icons": ["https://ae01.alicdn.com/kf/U413ab7460abb4a28b11deac3c5034243N.jpg", "https://ae01.alicdn.com/kf/U413ab7460abb4a28b11deac3c5034243N.jpg"],
             "script": "https://raw.githubusercontent.com/age174/-/main/qhyd.js"
+        },
+        {
+            "id": "hhkk",
+            "name": "火狐看看",
+            "keys": ["hhkkurl","hhkkhd","hhkkbody","hhkkurl2","hhkkhd2","hhkkbody2","hhkkurl3", "hhkkhd3","hhkkbody3"],
+            "author": "@tom",
+            "settings": [{
+            "id": "hhkkstatus",
+            "name": "当前账号",
+            "val": "1",
+            "type": "number",
+            "desc": "当前抓取ck记录的账号序号，如：1、2、3、4"
+        },
+        {
+            "id": "hhkkcount",
+            "name": "账号个数",
+            "val": "1",
+            "type": "number",
+            "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
+        }],
+            "repo": "https://raw.githubusercontent.com/xl2101200/-/main/hhkk.js",
+            "icons": ["https://raw.githubusercontent.com/xl2101200/-/main/tom/tom.png"],
+            "script": "https://raw.githubusercontent.com/xl2101200/-/main/hhkk.js"
         }
     ]
 }
