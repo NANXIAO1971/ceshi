@@ -706,36 +706,6 @@
             "repo": "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/qlp.js",
             "icons": ["https://ae01.alicdn.com/kf/Uc2775b8f4abf41788ba89df0317e58050.jpg", "https://ae01.alicdn.com/kf/Uc2775b8f4abf41788ba89df0317e58050.jpg"],
             "script": "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/qlp.js"
-    },
-    {
-    "id": "jrtt",
-    "name": "今日头条极速版",
-    "keys": ["signurl", "signkey", "farmurl", "farmkey", "readurl", "readkey", "signurl2", "signkey2", "farmurl2", "farmkey2", "readurl2", "readkey2", "signurl3", "signkey3", "farmurl3", "farmkey3", "readurl3", "readkey3", "signurl4", "signkey4", "farmurl4", "farmkey4", "readurl4", "readkey4"],
-    "author": "@Ariszy",
-    "settings": [{
-            "id": "tz",
-            "name": "静默运行",
-            "val": "1",
-            "type": "number",
-            "desc": "0为不通知，1为全部通知"
-        },
-       {
-        "id": "jrttsetting",
-        "name": "当前账号",
-        "val": "1",
-        "type": "number",
-        "desc": "当前账号对应"
-      },
-      {
-        "id": "jrttcount",
-        "name": "账号个数",
-        "val": "1",
-        "type": "number",
-        "desc": "需要几个账号，数字为几"
-      }],
-    "repo": "https://github.com/Ariszy/Private-Script/blob/master/Scripts/jrtt.js",
-    "icons": ["https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/jrtt-mini.png", "https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/jrtt.png"],
-    "script": "https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/jrtt.js"
-  }
+    }
   ]
 }
