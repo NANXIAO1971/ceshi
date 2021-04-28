@@ -480,7 +480,7 @@
         {
             "id": "qhyd",
             "name": "千禾阅读",
-            "keys": ["qhydurl","qhydhd","qhydlqhd","qhydbody"],
+            "keys": ["qhydurl","qhydhd","qhydlqhd","qhydbody","qhydurl2","qhydhd2","qhydlqhd2","qhydbody2"],
             "author": "@feizao",
             "settings": [{
             "id": "qhydstatus",
