@@ -542,9 +542,9 @@
             "type": "number",
             "desc": "需要几个账号，数字为几"
         }],
-            "repo": "https://github.com/age174/-/blob/main/xbyd.js",
+            "repo": "https://github.com/NANXIAO1971/ceshi/blob/main/qx/xbyd.js",
             "icons": ["https://ae01.alicdn.com/kf/Ubc6bbe61f9f64be78d2b89ec88557fa4f.jpg", "https://ae01.alicdn.com/kf/Ubc6bbe61f9f64be78d2b89ec88557fa4f.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/xbyd.js"
+            "script": "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/xbyd.js"
         }
     ]
 }
