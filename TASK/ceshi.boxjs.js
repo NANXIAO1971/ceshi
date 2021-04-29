@@ -526,7 +526,7 @@
         {
             "id": "xbyd",
             "name": "小宝阅读",
-            "keys": ["xbydurl","xbydhd","xbydurl2","xbydhd2","xbydurl3","xbydhd3","xbydurl4","xbydhd4","xbydurl5","xbydhd5","xbydurl6","xbydhd6","xbydurl7","xbydhd7","xbydurl8","xbydhd8","xbydurl9","xbydhd9","xbydurl10","xbydhd10","xbydurl11","xbydhd11","xbydurl12","xbydhd12","xbydurl13","xbydhd13","xbydurl14","xbydhd14","xbydurl15","xbydhd15"],
+            "keys": ["xbydurl","xbydhd","xbydurl2","xbydhd2","xbydurl3","xbydhd3","xbydurl4","xbydhd4"],
             "author": "@feizao",
             "settings": [{
             "id": "xbydstatus",
