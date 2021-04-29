@@ -522,6 +522,29 @@
             "repo": "https://raw.githubusercontent.com/xl2101200/-/main/hhkk.js",
             "icons": ["https://raw.githubusercontent.com/xl2101200/-/main/tom/tom.png"],
             "script": "https://raw.githubusercontent.com/xl2101200/-/main/hhkk.js"
+        },
+        {
+            "id": "xbyd",
+            "name": "小宝阅读",
+            "keys": ["xbydurl","xbydhd","xbydurl2","xbydhd2","xbydurl3","xbydhd3","xbydurl4","xbydhd4","xbydurl5","xbydhd5","xbydurl6","xbydhd6","xbydurl7","xbydhd7","xbydurl8","xbydhd8","xbydurl9","xbydhd9","xbydurl10","xbydhd10","xbydurl11","xbydhd11","xbydurl12","xbydhd12","xbydurl13","xbydhd13","xbydurl14","xbydhd14","xbydurl15","xbydhd15"],
+            "author": "@feizao",
+            "settings": [{
+            "id": "xbydstatus",
+            "name": "当前账号",
+            "val": "1",
+            "type": "number",
+            "desc": "当前账号对应"
+        },
+        {
+            "id": "xbydcount",
+            "name": "账号个数",
+            "val": "1",
+            "type": "number",
+            "desc": "需要几个账号，数字为几"
+        }],
+            "repo": "https://github.com/age174/-/blob/main/xbyd.js",
+            "icons": ["https://ae01.alicdn.com/kf/Ubc6bbe61f9f64be78d2b89ec88557fa4f.jpg", "https://ae01.alicdn.com/kf/Ubc6bbe61f9f64be78d2b89ec88557fa4f.jpg"],
+            "script": "https://raw.githubusercontent.com/age174/-/main/xbyd.js"
         }
     ]
 }
