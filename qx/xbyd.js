@@ -26,24 +26,24 @@ https://raw.githubusercontent.com/age174/-/main/feizao.box.json
 圈X配置如下，其他软件自行测试，定时可以多设置几次，没任务会停止运行的
 [task_local]
 #小宝阅读
-5,35 9-22 * * * https://raw.githubusercontent.com/age174/-/main/xbyd.js, tag=小宝阅读, img-url=https://ae01.alicdn.com/kf/Ubc6bbe61f9f64be78d2b89ec88557fa4f.jpg, enabled=true
+5,35 9-22 * * * https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/xbyd.js, tag=小宝阅读, img-url=https://ae01.alicdn.com/kf/Ubc6bbe61f9f64be78d2b89ec88557fa4f.jpg, enabled=true
 
 
 [rewrite_local]
 #小宝阅读
-https://app.b4tg3gc.top/wxread/indexinfo? url script-request-header https://raw.githubusercontent.com/age174/-/main/xbyd.js
+https://app.b4tg3gc.top/wxread/indexinfo? url script-request-header https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/xbyd.js
 #更改等待时长(小宝阅读进入需要等待一分多钟才能点击，添加该重写可以把等待时长改为5秒。)
 https:\/\/app\.b4tg3gc\.top\/wxread\/indexinfo\? url response-body limit_time = \d+ response-body limit_time = 5
 
 
 #loon
-https://app.b4tg3gc.top/wxread/indexinfo? script-path=https://raw.githubusercontent.com/age174/-/main/xbyd.js, requires-header=true, timeout=10, tag=小宝阅读
+https://app.b4tg3gc.top/wxread/indexinfo? script-path=https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/xbyd.js, requires-header=true, timeout=10, tag=小宝阅读
 
 
 
 #surge
 
-小宝阅读 = type=http-request,pattern=https://app.b4tg3gc.top/wxread/indexinfo?,requires-header=1,max-size=0,script-path=https://raw.githubusercontent.com/age174/-/main/xbyd.js,script-update-interval=0
+小宝阅读 = type=http-request,pattern=https://app.b4tg3gc.top/wxread/indexinfo?,requires-header=1,max-size=0,script-path=https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/xbyd.js,script-update-interval=0
 
 
 
