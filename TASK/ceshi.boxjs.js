@@ -565,9 +565,9 @@
             "type": "number",
             "desc": "需要几个账号，数字为几"
     }],
-            "repo": "https://github.com/age174/-/blob/main/scdcg.js",
+            "repo": "https://github.com/NANXIAO1971/ceshi/blob/main/qx/scdcg.js",
             "icons": ["https://ae01.alicdn.com/kf/U9f2a16b203ed40318d22f9fd5fdce9a9S.jpg", "https://ae01.alicdn.com/kf/U9f2a16b203ed40318d22f9fd5fdce9a9S.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/scdcg.js"
+            "script": "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/scdcg.js"
     }
     ]
 }
