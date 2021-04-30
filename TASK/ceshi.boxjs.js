@@ -545,6 +545,29 @@
             "repo": "https://github.com/NANXIAO1971/ceshi/blob/main/qx/xbyd.js",
             "icons": ["https://ae01.alicdn.com/kf/Ubc6bbe61f9f64be78d2b89ec88557fa4f.jpg", "https://ae01.alicdn.com/kf/Ubc6bbe61f9f64be78d2b89ec88557fa4f.jpg"],
             "script": "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/xbyd.js"
-        }
+        },
+        {
+            "id": "scdcg",
+            "name": "食材大冲关",
+            "keys": ["scdcghd","scdcgbody","scdcgspbody","scdcghd2","scdcgbody2","scdcgspbody2","scdcghd3","scdcgbody3","scdcgspbody3","scdcghd4","scdcgbody4","scdcgspbody4"],
+            "author": "@feizao",
+            "settings": [{
+            "id": "scdcgstatus",
+            "name": "当前账号",
+            "val": "1",
+            "type": "number",
+            "desc": "当前账号对应"
+    },
+    {
+            "id": "scdcgcount",
+            "name": "账号个数",
+            "val": "1",
+            "type": "number",
+            "desc": "需要几个账号，数字为几"
+    }],
+            "repo": "https://github.com/age174/-/blob/main/scdcg.js",
+            "icons": ["https://ae01.alicdn.com/kf/U9f2a16b203ed40318d22f9fd5fdce9a9S.jpg", "https://ae01.alicdn.com/kf/U9f2a16b203ed40318d22f9fd5fdce9a9S.jpg"],
+            "script": "https://raw.githubusercontent.com/age174/-/main/scdcg.js"
+    }
     ]
 }
