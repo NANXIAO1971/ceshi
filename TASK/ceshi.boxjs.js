@@ -512,15 +512,14 @@
 					"autoGrow": false,
 					"rows": 1,
 					"desc": "记录上次执行的位置，可以控制从第几个body开始执行"
-				},
+			},
 			{
 				"id": "logbutton",
 				"name": "日志开关",
 				"val": "",
 				"type": "number",
 				"desc": "0为关闭日志，1为开启，默认为关闭日志"
-			}
-      ,
+			},
 			{
 				"id": "tzbutton",
 				"name": "安静开关",
@@ -533,8 +532,7 @@
 		"repo": ["https://raw.githubusercontent.com/CenBoMin/GithubSync"],
 		"script": "https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/chonghua.js",
 		"icons": ["https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/AutoRead.png",
-			"https://raw.githubusercontent.com/58xinian/icon/master/chsp.png"
-		]
+			"https://raw.githubusercontent.com/58xinian/icon/master/chsp.png"]
 	}
     ]
 }
