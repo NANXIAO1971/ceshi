@@ -409,29 +409,6 @@
             "script": "https://raw.githubusercontent.com/age174/-/main/shq.js"
         },
         {
-            "id": "xbgg",
-            "name": "讯播广告",
-            "keys": ["xbggurl","xbgghd", "xbggurl2","xbgghd2","xbggurl3","xbgghd3","xbggurl4","xbgghd4","xbggurl5","xbgghd5"],
-            "author": "@feizao",
-            "settings": [{
-            "id": "xbggstatus",
-            "name": "当前账号",
-            "val": "1",
-            "type": "number",
-            "desc": "当前账号对应"
-        },
-        {
-            "id": "xbggcount",
-            "name": "账号个数",
-            "val": "1",
-            "type": "number",
-            "desc": "需要几个账号，数字为几"
-        }],
-            "repo": "https://github.com/NANXIAO1971/ceshi/main/qx/xbgg.js",
-            "icons": ["https://ae01.alicdn.com/kf/U466ffce93b584c5babd1127f32f5ddebX.jpg", "https://ae01.alicdn.com/kf/U466ffce93b584c5babd1127f32f5ddebX.jpg"],
-            "script": "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/xbgg.js"
-        },
-        {
             "id": "ximei",
             "name": "西梅",
             "keys": ["ximeiurl", "ximeihd", "ximeiurl2", "ximeihd2","ximeiurl3", "ximeihd3","ximeiurl4", "ximeihd4"],
@@ -455,29 +432,6 @@
             "script": "https://raw.githubusercontent.com/age174/-/main/ximei.js"
         },
         {
-            "id": "qlp",
-            "name": "考状元娶老婆二合一",
-            "keys": ["qlphd","kzyhd", "qlphd2","kzyhd2", "qlphd3","kzyhd3", "qlphd4","kzyhd4"],
-            "author": "@feizao",
-            "settings": [{
-            "id": "qlpstatus",
-            "name": "当前账号",
-            "val": "1",
-            "type": "number",
-            "desc": "当前账号对应"
-        },
-        {
-            "id": "qlpcount",
-            "name": "账号个数",
-            "val": "1",
-            "type": "number",
-            "desc": "需要几个账号，数字为几"
-        }],
-            "repo": "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/qlp.js",
-            "icons": ["https://ae01.alicdn.com/kf/Uc2775b8f4abf41788ba89df0317e58050.jpg", "https://ae01.alicdn.com/kf/Uc2775b8f4abf41788ba89df0317e58050.jpg"],
-            "script": "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/qlp.js"
-        },
-        {
             "id": "qhyd",
             "name": "千禾阅读",
             "keys": ["qhydurl","qhydhd","qhydlqhd","qhydbody","qhydurl2","qhydhd2","qhydlqhd2","qhydbody2"],
@@ -499,52 +453,6 @@
             "repo": "https://github.com/age174/-/blob/main/qhyd.js",
             "icons": ["https://ae01.alicdn.com/kf/U413ab7460abb4a28b11deac3c5034243N.jpg", "https://ae01.alicdn.com/kf/U413ab7460abb4a28b11deac3c5034243N.jpg"],
             "script": "https://raw.githubusercontent.com/age174/-/main/qhyd.js"
-        },
-        {
-            "id": "hhkk",
-            "name": "火狐看看",
-            "keys": ["hhkkurl","hhkkhd","hhkkbody","hhkkurl2","hhkkhd2","hhkkbody2","hhkkurl3", "hhkkhd3","hhkkbody3"],
-            "author": "@tom",
-            "settings": [{
-            "id": "hhkkstatus",
-            "name": "当前账号",
-            "val": "1",
-            "type": "number",
-            "desc": "当前抓取ck记录的账号序号，如：1、2、3、4"
-        },
-        {
-            "id": "hhkkcount",
-            "name": "账号个数",
-            "val": "1",
-            "type": "number",
-            "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
-        }],
-            "repo": "https://raw.githubusercontent.com/xl2101200/-/main/hhkk.js",
-            "icons": ["https://raw.githubusercontent.com/xl2101200/-/main/tom/tom.png"],
-            "script": "https://raw.githubusercontent.com/xl2101200/-/main/hhkk.js"
-        },
-        {
-            "id": "xbyd",
-            "name": "小宝阅读",
-            "keys": ["xbydurl","xbydhd","xbydurl2","xbydhd2","xbydurl3","xbydhd3","xbydurl4","xbydhd4"],
-            "author": "@feizao",
-            "settings": [{
-            "id": "xbydstatus",
-            "name": "当前账号",
-            "val": "1",
-            "type": "number",
-            "desc": "当前账号对应"
-        },
-        {
-            "id": "xbydcount",
-            "name": "账号个数",
-            "val": "1",
-            "type": "number",
-            "desc": "需要几个账号，数字为几"
-        }],
-            "repo": "https://github.com/NANXIAO1971/ceshi/blob/main/qx/xbyd.js",
-            "icons": ["https://ae01.alicdn.com/kf/Ubc6bbe61f9f64be78d2b89ec88557fa4f.jpg", "https://ae01.alicdn.com/kf/Ubc6bbe61f9f64be78d2b89ec88557fa4f.jpg"],
-            "script": "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/xbyd.js"
         },
         {
             "id": "scdcg",
