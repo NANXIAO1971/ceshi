@@ -626,7 +626,6 @@
 		"script": "https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/chonghua.js",
 		"icons": ["https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/AutoRead.png",
 			"https://raw.githubusercontent.com/58xinian/icon/master/chsp.png"
-		]
 	}
     ]
 }
