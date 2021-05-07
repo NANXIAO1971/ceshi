@@ -513,6 +513,29 @@
             "repo": "https://github.com/NANXIAO1971/ceshi/blob/main/qx/scdcg.js",
             "icons": ["https://ae01.alicdn.com/kf/U9f2a16b203ed40318d22f9fd5fdce9a9S.jpg", "https://ae01.alicdn.com/kf/U9f2a16b203ed40318d22f9fd5fdce9a9S.jpg"],
             "script": "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/scdcg.js"
+    },
+    {
+            "id": "xfyjc",
+            "name": "幸福养鸡场",
+            "keys": ["xfyjchd"],
+            "author": "@feizao",
+            "settings": [{
+            "id": "xfyjcstatus",
+            "name": "当前账号",
+            "val": "1",
+            "type": "number",
+            "desc": "当前账号对应"
+    },
+    {
+            "id": "xfyjccount",
+            "name": "账号个数",
+            "val": "1",
+            "type": "number",
+            "desc": "需要几个账号，数字为几"
+    }],
+            "repo": "https://github.com/age174/-/blob/main/xfyjc.js",
+            "icons": ["https://ae01.alicdn.com/kf/Ue110888eddad48a8a78d99284e599b134.jpg", "https://ae01.alicdn.com/kf/Ue110888eddad48a8a78d99284e599b134.jpg"],
+            "script": "https://raw.githubusercontent.com/age174/-/main/xfyjc.js"
     }
     ]
 }
