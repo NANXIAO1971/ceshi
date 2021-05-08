@@ -540,7 +540,7 @@
     {
             "id": "zzsy",
             "name": "招招",
-            "keys": ["zzsyhd","zzsybody", "zzsyhd2","zzsybody2","zzsyhd3","zzsybody3","zzsyhd4","zzsybody4","zzsyhd5","zzsybody5","zzsyhd6","zzsybody6","zzsyhd7","zzsybody7","zzsyhd8","zzsybody8","zzsyhd9","zzsybody9","zzsyhd10","zzsybody10"],
+            "keys": ["zzsyhd","zzsybody", "zzsyhd2","zzsybody2","zzsyhd3","zzsybody3","zzsyhd4","zzsybody4","zzsyhd5"],
             "author": "@feizao",
             "settings": [{
             "id": "zzsystatus",
