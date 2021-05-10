@@ -494,7 +494,7 @@
              {
             "id": "scdcg",
             "name": "食材大冲关",
-            "keys": ["scdcghd","scdcgbody","scdcgspbody","scdcghd2","scdcgbody2","scdcgspbody2","scdcghd3","scdcgbody3","scdcgspbody3","scdcghd4","scdcgbody4","scdcgspbody4"],
+            "keys": ["scdcghd","scdcgbody","scdcgspbody","scdcghd2","scdcgbody2","scdcgspbody2","scdcghd3","scdcgbody3","scdcgspbody3","scdcghd4","scdcgbody4","scdcgspbody4","scdcghd5","scdcgbody5","scdcgspbody5"],
             "author": "@feizao",
             "settings": [{
             "id": "scdcgstatus",
