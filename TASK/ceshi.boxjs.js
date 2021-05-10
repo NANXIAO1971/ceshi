@@ -559,6 +559,65 @@
             "repo": "https://github.com/age174/-/blob/main/zzsy.js",
             "icons": ["https://ae01.alicdn.com/kf/Ub0056a0721e94c9a85a8bbeb2f2aed6fn.jpg", "https://ae01.alicdn.com/kf/Ub0056a0721e94c9a85a8bbeb2f2aed6fn.jpg"],
             "script": "https://raw.githubusercontent.com/age174/-/main/zzsy.js"
-    }
+    },
+    {
+            "id": "shzx",
+            "name": "搜狐资讯APP",
+            "keys": ["shzxbody", "shzxbody2", "shzxbody3", "shzxbody4"],
+            "author": "@ziye",
+            "settings": [{
+                    "id": "shzxSuffix",
+                    "name": "当前账号",
+                    "val": "1",
+                    "type": "number",
+                    "desc": "当前抓取ck记录的账号序号，如：1、2、3、"
+                },
+                {
+                    "id": "shzxCount",
+                    "name": "账号个数",
+                    "val": "1",
+                    "type": "number",
+                    "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
+                },
+                {
+                    "id": "shzxXH",
+                    "name": "循环获取CK",
+                    "val": "0",
+                    "type": "number",
+                    "desc": "0关闭 1开启,默认关闭"
+                }, 
+                {
+                    "id": "shzxXYZ",
+                    "name": "执行概率",
+                    "val": "100",
+                    "type": "number",
+                    "desc": "0不执行 可设置0-100,默认百分百"
+                },
+                {
+                    "id": "shuqinotifyttt",
+                    "name": "推送控制",
+                    "val": "1",
+                    "type": "number",
+                    "desc": "0关闭，1推送,默认12点以及23点推送"
+                },
+                {
+                    "id": "shuqinotifyInterval",
+                    "name": "通知控制",
+                    "val": "2",
+                    "type": "number",
+                    "desc": "0关闭，1为 所有通知，2为 12，23 点通知，3为 6，12，18，23 点通知 "
+                },
+                {
+                    "id": "shuqiMinutes",
+                    "name": "推送-通知 分钟控制",
+                    "val": "10",
+                    "type": "number",
+                    "desc": "推送以及通知控制在什么分钟段，可设置0-59,默认0到10"
+                }
+            ],
+            "repo": "https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/shzx.js",
+            "icons": ["https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/shzx.png", "https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/shzx.png"],
+            "script": "https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/shzx.js"
+        }
     ]
 }
