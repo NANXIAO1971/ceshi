@@ -582,6 +582,145 @@
             "repo": "https://github.com/age174/-/blob/main/scdcg.js",
             "icons": ["https://ae01.alicdn.com/kf/U9f2a16b203ed40318d22f9fd5fdce9a9S.jpg", "https://ae01.alicdn.com/kf/U9f2a16b203ed40318d22f9fd5fdce9a9S.jpg"],
             "script": "https://raw.githubusercontent.com/age174/-/main/scdcg.js"
-    }
+    },
+    {
+			"id": "qqreads",
+			"name": "QQ阅读多账号管理",
+                        "keys": ["qqreadbd1", "qqreadtimeurl1", "qqreadtimehd1","qqreadboxhd1", "qqreadboxurl1","qqreadboxvdurl1", "qqreadboxvdhd1","qqreadbd2", "qqreadtimeurl2", "qqreadtimehd2","qqreadboxhd2", "qqreadboxurl2","qqreadboxvdurl2", "qqreadboxvdhd2"],
+			"descs_html": [
+        "脚本使用说明：",
+        "1.请先配置好本仓库的Cookie重写脚本【<a href=\"https://raw.githubusercontent.com/photonmang/quantumultX/master/config/Cookie.conf\">Cookie.conf</a>】及task脚本【<a href=\"https://raw.githubusercontent.com/photonmang/quantumultX/master/cache/qqreads1.js\">qqreads1.js</a>】",
+	"2.请在以下获取账号Cookie中填写您要获取的账号,请填写阿拉伯数字来表示！",			
+        "3.进入QQ阅读获取Cookie【<a href=\"http://m.q.qq.com/a/s/a48c89449ec4992000f9ecef1153538e\">点我打开</a>】",
+	"4.进书库 看10秒以下 然后退出，看书一定不能超过10秒.获取url,time,body三个更新提醒.",
+	"5.循环2-4步骤重新获取下个账号【<a href=\"https://raw.githubusercontent.com/photonmang/quantumultX/master/cache/README.md\">点我查看详细使用说明</a>】",
+	"6.新增ck打印，仅方便上传云函数使用，不会用无需设置，请配合Cookie打印脚本【<a href=\"https://raw.githubusercontent.com/photonmang/quantumultX/master/cache/qqreadtest/qqreadckprint.js\">qqreadckprint.js</a>】"
+      ],
+			"settings": [
+				{
+      "id": "QQlogs",
+      "name": "详细响应日志",
+      "val": false,
+      "type": "boolean",
+      "desc": "打印调试日志, 默认关闭."
+    },
+				{
+					"id": "notifyInterval",
+					"name": "默认开启所有通知",
+					"val": "1",
+					"type": "radios",
+					"desc": "请根据实际使用情况选择",
+                                        "items": [
+            {
+              "key": "1",
+              "label": "开启通知"
+            },
+            {
+              "key": "2",
+              "label": "宝箱领取成功通知"
+            },
+            {
+              "key": "3",
+              "label": "宝箱每15次通知一次"
+            },
+            {
+              "key": "4",
+              "label": "每晚23点40后显示通知"
+            }
+            
+          ]
+				},
+                                 {
+					"id": "jbid",
+					"name": "获取账号Cookie",
+					"val": "",
+					"type": "number",
+					"placeholder": "默认是空值(点击以展开说明)",
+					"autoGrow": true,
+					"rows": 1,
+					"desc": "需要获取第几个账号的Cookie就填写对应的数字，如第1个账号填写1，第2个账号就填写2，依次类推."
+				},
+				{
+					"id": "zhs",
+					"name": "输出账号总数",
+					"val": "",
+					"type": "number",
+                                        "placeholder": "默认是空值(点击以展开说明)",
+                                        "autoGrow": true,
+                                        "rows": 1,
+					"desc": "请输入需要执行的账号总数量"
+				} ,
+				{
+					"id": "txje",
+					"name": "请选择您的提现金额（默认10元）",
+					"val": "100000",
+					"type": "radios",
+					"desc": "",
+                                        "items": [
+            {
+              "key": "6000",
+              "label": "0.6元(仅适用新号第一次提现)"
+            },
+	     {
+              "key": "10000",
+              "label": "1元"
+            },
+            {
+              "key": "20000",
+              "label": "2元"
+            },
+            {
+              "key": "100000",
+              "label": "10元"
+            },
+            {
+              "key": "300000",
+              "label": "30元"
+            },
+            {
+              "key": "500000",
+              "label": "50元"
+            },
+            {
+              "key": "1000000",
+              "label": "100元"
+            }
+          ]
+				},
+				{
+					"id": "qqStart",
+					"name": "打印起始值",
+					"val": "",
+					"type": "number",
+                                        "placeholder": "默认起始打印第一个账号",
+                                        "autoGrow": true,
+                                        "rows": 1,
+					"desc": "此处填写需要打印CK的起始值.如打印从第一个账号开始填写1,从第二个账号开始填写2,以此类推..."
+				},
+				{
+					"id": "qqEnd",
+					"name": "打印结束值",
+					"val": "",
+					"type": "number",
+                                        "placeholder": "默认第一个账号为结束打印值",
+                                        "autoGrow": true,
+                                        "rows": 1,
+					"desc": "此处填写需要打印CK的结束值.如账号有5个,需要全部输出,填写5.只需要打印3个账号请输入3."
+				},
+				{
+					"id": "getput",
+					"name": "打印body,timeurl,timeheader",
+					"val": "1",
+					"type": "number",
+                                        "placeholder": "默认打印body",
+                                        "autoGrow": true,
+                                        "rows": 1,
+					"desc": "输入1打印body的CK;输入2打印timeurl的CK,输入3打印timeheader的CK."
+				}
+			],
+			"author": "@photonmang",
+			"repo": "https://raw.githubusercontent.com/photonmang/quantumultX/master/cache/qqreads.js",
+			"icons": ["https://raw.githubusercontent.com/photonmang/quantumultX/master/qqread.jpg","https://raw.githubusercontent.com/photonmang/quantumultX/master/qqread.jpg"]
+		}
     ]
 }
