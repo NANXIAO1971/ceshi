@@ -5,58 +5,6 @@
     "icon": "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/nxtx.png",
     "repo": "https://github.com/NANXIAO1971/ceshi",
     "apps": [{
-            "id": "iboxpay",
-            "name": "笑谱",
-            "keys": ["refreshtoken", "iboxpayvideoheader", "iboxpayvideobody", "refreshtoken2", "iboxpayvideoheader2", "iboxpayvideobody2", "refreshtoken3", "iboxpayvideoheader3", "iboxpayvideobody3"],
-            "author": "@ziye",
-            "settings": [{
-                    "id": "iboxpaySuffix",
-                    "name": "当前账号",
-                    "val": "1",
-                    "type": "number",
-                    "desc": "当前抓取ck记录的账号序号，如：1、2、4、"
-                },
-                {
-                    "id": "iboxpayCount",
-                    "name": "账号个数",
-                    "val": "1",
-                    "type": "number",
-                    "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
-                },
-                {
-                    "id": "iboxpayLIVE",
-                    "name": "任务控制",
-                    "val": "1",
-                    "type": "number",
-                    "desc": "默认为1开启直播，视频请获取ck，设置2关闭视频，新人请设置888"
-                },
-                {
-                    "id": "iboxpayCASH",
-                    "name": "提现标准",
-                    "val": "0",
-                    "type": "number",
-                    "desc": "0不提现，可设置 0 1 15 30 100 888 设置888，由大至小循环提现 "
-                },
-                {
-                    "id": "iboxpayphone",
-                    "name": "手机号",
-                    "val": "0",
-                    "type": "number",
-                    "desc": "请输入完整手机号"
-                },
-                {
-                    "id": "iboxpaysms",
-                    "name": "验证码",
-                    "val": "0",
-                    "type": "number",
-                    "desc": "输入短信验证码，默认为0，不启动获取token功能"
-                }
-            ],
-            "repo": "https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/iboxpay.js",
-            "icons": ["https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/iboxpay.png", "https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/iboxpay.png"],
-            "script": "https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/iboxpay.js"
-        },
-        {
             "id": "bububao",
             "name": "步步宝APP",
             "keys": ["bububaotoken", "bububaotoken2", "bububaotoken3", "bububaotoken4", "bububaotoken5", "bububaotoken6", "bububaotoken7", "bububaotoken8"],
