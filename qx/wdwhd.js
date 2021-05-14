@@ -23,13 +23,13 @@ https://raw.githubusercontent.com/age174/-/main/feizao.box.json
 圈X配置如下，其他软件自行测试
 [task_local]
 #我的网红店
-0-59 9-14 * * * https://raw.githubusercontent.com/age174/-/main/wdwhd.js, tag=我的网红店, img-url=https://ae01.alicdn.com/kf/Uc5a0618d6a404079af9216e1012e35efs.jpg, enabled=true
+0-59 9-14 * * * https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/wdwhd.js, tag=我的网红店, img-url=https://ae01.alicdn.com/kf/Uc5a0618d6a404079af9216e1012e35efs.jpg, enabled=true
 
 [rewrite_local]
 #我的网红店视频
-https://api-access.pangolin-sdk-toutiao.com/api/ad/union/sdk/reward_video/reward/ url script-request-body https://raw.githubusercontent.com/age174/-/main/wdwhd.js
+https://api-access.pangolin-sdk-toutiao.com/api/ad/union/sdk/reward_video/reward/ url script-request-body https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/wdwhd.js
 #我的网红店红包
-https://tinygame-api.beijingqianji.com/en/check/imp_callback url script-request-body https://raw.githubusercontent.com/age174/-/main/wdwhd.js
+https://tinygame-api.beijingqianji.com/en/check/imp_callback url script-request-body https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/wdwhd.js
 
 [MITM]
 hostname = tinygame-api.beijingqianji.com,api-access.pangolin-sdk-toutiao.com
