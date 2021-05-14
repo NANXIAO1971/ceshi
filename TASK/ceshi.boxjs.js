@@ -88,30 +88,6 @@
             "script": "https://raw.githubusercontent.com/NANXIAO1971/ZYJB/master/Task/bububao.js"
         },
         {
-            "id": "ymz",
-            "name": "羊毛赚",
-            "keys": ["ymzurl","ymzhd","ymzbody","ymzbody1"],
-            "author": "@feizao",
-            "settings": [{
-                    "id": "ymzdsetting",
-                    "name": "当前账号",
-                    "val": "1",
-                    "type": "number",
-                    "desc": "当前账号对应"
-                },
-                {
-                    "id": "ymzdcount",
-                    "name": "账号个数",
-                    "val": "1",
-                    "type": "number",
-                    "desc": "需要几个账号，数字为几"
-                }
-            ],
-            "repo": "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/ymz.js",
-            "icons": ["https://s3.ax1x.com/2021/02/06/yYzYWR.png", "https://s3.ax1x.com/2021/02/06/yYzYWR.png"],
-            "script": "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/ymz.js"
-        },
-        {
             "author": "@sunert", 
             "descs_html": [
             "<h4 align=\"center\">获取Cookie以及脚本配置请查看<a href=\"https://github.com/Sunert/Scripts/raw/master/TaskConf/youth/readme.md\">配置说明</a></h4>", 
@@ -409,29 +385,6 @@
             "script": "https://raw.githubusercontent.com/age174/-/main/shq.js"
         },
         {
-            "id": "ximei",
-            "name": "西梅",
-            "keys": ["ximeiurl", "ximeihd", "ximeiurl2", "ximeihd2","ximeiurl3", "ximeihd3","ximeiurl4", "ximeihd4"],
-            "author": "@feizao",
-            "settings": [{
-            "id": "ximeistatus",
-            "name": "当前账号",
-            "val": "1",
-            "type": "number",
-            "desc": "当前账号对应"
-        },
-        {
-            "id": "ximeicount",
-            "name": "账号个数",
-            "val": "1",
-            "type": "number",
-            "desc": "需要几个账号，数字为几"
-        }],
-            "repo": "https://github.com/age174/-/blob/main/ximei.js",
-            "icons": ["https://ae01.alicdn.com/kf/Ucd02ea79ef22473daf3576486d134509Q.jpg", "https://ae01.alicdn.com/kf/Ucd02ea79ef22473daf3576486d134509Q.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/ximei.js"
-        },
-        {
             "id": "qhyd",
             "name": "千禾阅读",
             "keys": ["qhydurl","qhydhd","qhydlqhd","qhydbody","qhydurl2","qhydhd2","qhydlqhd2","qhydbody2"],
@@ -536,52 +489,6 @@
             "repo": "https://github.com/age174/-/blob/main/zzsy.js",
             "icons": ["https://ae01.alicdn.com/kf/Ub0056a0721e94c9a85a8bbeb2f2aed6fn.jpg", "https://ae01.alicdn.com/kf/Ub0056a0721e94c9a85a8bbeb2f2aed6fn.jpg"],
             "script": "https://raw.githubusercontent.com/age174/-/main/zzsy.js"
-    },
-    {
-            "id": "csxdr",
-            "name": "超市小达人",
-            "keys": ["csxdrhd","csxdrbody","csxdrspbody", "csxdrhd2","csxdrbody2","csxdrspbody2","csxdrhd3","csxdrbody3","csxdrspbody3","csxdrhd4","csxdrbody4","csxdrspbody4","csxdrhd5","csxdrbody5","csxdrspbody5"],
-            "author": "@feizao",
-            "settings": [{
-            "id": "csxdrstatus",
-            "name": "当前账号",
-            "val": "1",
-            "type": "number",
-            "desc": "当前账号对应"
-    },
-    {
-            "id": "csxdrcount",
-            "name": "账号个数",
-            "val": "1",
-            "type": "number",
-            "desc": "需要几个账号，数字为几"
-    }],
-            "repo": "https://github.com/age174/-/blob/main/csxdr.js",
-            "icons": ["https://ae01.alicdn.com/kf/Udd9cb36174cf41a7a69e28a643a360a9a.jpg", "https://ae01.alicdn.com/kf/Udd9cb36174cf41a7a69e28a643a360a9a.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/csxdr.js"
-    },
-    {
-            "id": "scdcg",
-            "name": "食材大冲关",
-            "keys": ["scdcghd","scdcgbody","scdcgspbody","scdcghd2","scdcgbody2","scdcgspbody2","scdcghd3","scdcgbody3","scdcgspbody3","scdcghd4","scdcgbody4","scdcgspbody4","scdcghd5","scdcgbody5","scdcgspbody5"],
-            "author": "@feizao",
-            "settings": [{
-            "id": "scdcgstatus",
-            "name": "当前账号",
-            "val": "1",
-            "type": "number",
-            "desc": "当前账号对应"
-    },
-    {
-            "id": "scdcgcount",
-            "name": "账号个数",
-            "val": "1",
-            "type": "number",
-            "desc": "需要几个账号，数字为几"
-    }],
-            "repo": "https://github.com/age174/-/blob/main/scdcg.js",
-            "icons": ["https://ae01.alicdn.com/kf/U9f2a16b203ed40318d22f9fd5fdce9a9S.jpg", "https://ae01.alicdn.com/kf/U9f2a16b203ed40318d22f9fd5fdce9a9S.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/scdcg.js"
     },
     {
             "id": "QQread",
