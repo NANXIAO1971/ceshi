@@ -303,36 +303,6 @@
             "script": "https://raw.githubusercontent.com/age174/-/main/mhdsp.js"
         },
         {
-            "id": "shq",
-            "name": "生活圈",
-            "keys": ["shqurl", "shqhd", "shqurl2", "shqhd2","shqurl3", "shqhd3","shqurl4", "shqhd4"],
-            "author": "@feizao",
-            "settings": [{
-            "id": "shqstatus",
-            "name": "当前账号",
-            "val": "1",
-            "type": "number",
-            "desc": "当前账号对应"
-        },
-        {
-            "id": "shqcount",
-            "name": "账号个数",
-            "val": "1",
-            "type": "number",
-            "desc": "需要几个账号，数字为几"
-        },
-        {
-            "id": "nr",
-            "name": "自定义评论内容",
-            "val": "",
-            "type": "string",
-            "desc": "填写自定义评论内容后,脚本评论内容为文章标题加上自定义的内容"
-        }],
-            "repo": "https://github.com/age174/-/blob/main/shq.js",
-            "icons": ["https://ftp.bmp.ovh/imgs/2021/04/e2b32e2eb2ad0cd3.png", "https://ftp.bmp.ovh/imgs/2021/04/e2b32e2eb2ad0cd3.png"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/shq.js"
-        },
-        {
             "id": "qhyd",
             "name": "千禾阅读",
             "keys": ["qhydurl","qhydhd","qhydlqhd","qhydbody","qhydurl2","qhydhd2","qhydlqhd2","qhydbody2"],
@@ -391,52 +361,6 @@
     "repo": "https://github.com/Ariszy/Private-Script/blob/master/Scripts/ranlv.js",
     "icons": ["https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/rl-mini.png", "https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/rl.png"],
     "script": "https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/ranlv.js"
-    },
-    {
-            "id": "xfyjc",
-            "name": "幸福养鸡场",
-            "keys": ["xfyjchd"],
-            "author": "@feizao",
-            "settings": [{
-            "id": "xfyjcstatus",
-            "name": "当前账号",
-            "val": "1",
-            "type": "number",
-            "desc": "当前账号对应"
-    },
-    {
-            "id": "xfyjccount",
-            "name": "账号个数",
-            "val": "1",
-            "type": "number",
-            "desc": "需要几个账号，数字为几"
-    }],
-            "repo": "https://github.com/age174/-/blob/main/xfyjc.js",
-            "icons": ["https://ae01.alicdn.com/kf/Ue110888eddad48a8a78d99284e599b134.jpg", "https://ae01.alicdn.com/kf/Ue110888eddad48a8a78d99284e599b134.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/xfyjc.js"
-    },
-    {
-            "id": "zzsy",
-            "name": "招招",
-            "keys": ["zzsyhd","zzsybody", "zzsyhd2","zzsybody2","zzsyhd3","zzsybody3","zzsyhd4","zzsybody4","zzsyhd5"],
-            "author": "@feizao",
-            "settings": [{
-            "id": "zzsystatus",
-            "name": "当前账号",
-            "val": "1",
-            "type": "number",
-            "desc": "当前账号对应"
-    },
-    {
-            "id": "zzsycount",
-            "name": "账号个数",
-            "val": "1",
-            "type": "number",
-            "desc": "需要几个账号，数字为几"
-    }],
-            "repo": "https://github.com/age174/-/blob/main/zzsy.js",
-            "icons": ["https://ae01.alicdn.com/kf/Ub0056a0721e94c9a85a8bbeb2f2aed6fn.jpg", "https://ae01.alicdn.com/kf/Ub0056a0721e94c9a85a8bbeb2f2aed6fn.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/zzsy.js"
     },
     {
             "id": "QQread",
