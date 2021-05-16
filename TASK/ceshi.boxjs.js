@@ -397,17 +397,86 @@
             "val": "1",
             "type": "number",
             "desc": "当前账号对应"
-    },
-    {
+        },
+        {
             "id": "wdwhdcount",
             "name": "账号个数",
             "val": "1",
             "type": "number",
             "desc": "需要几个账号，数字为几"
-    }],
+        }],
             "repo": "https://github.com/NANXIAO1971/ceshi/blob/main/qx/wdwhd.js",
             "icons": ["https://ae01.alicdn.com/kf/Uc5a0618d6a404079af9216e1012e35efs.jpg", "https://ae01.alicdn.com/kf/Uc5a0618d6a404079af9216e1012e35efs.jpg"],
             "script": "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/wdwhd.js"
-    }
+        },
+        {
+            "id": "scdcg",
+            "name": "食材大冲关",
+            "keys": ["scdcghd","scdcgbody","scdcgspbody","scdcghd2","scdcgbody2","scdcgspbody2","scdcghd3","scdcgbody3","scdcgspbody3","scdcghd4","scdcgbody4","scdcgspbody4","scdcghd5","scdcgbody5","scdcgspbody5","scdcghd6","scdcgbody6","scdcgspbody6","scdcghd7","scdcgbody7","scdcgspbody7","scdcghd8","scdcgbody8","scdcgspbody8","scdcghd9","scdcgbody9","scdcgspbody9","scdcghd10","scdcgbody10","scdcgspbody10"],
+            "author": "@feizao",
+            "settings": [{
+            "id": "scdcgstatus",
+            "name": "当前账号",
+            "val": "1",
+            "type": "number",
+            "desc": "当前账号对应"
+        },
+        {
+            "id": "scdcgcount",
+            "name": "账号个数",
+            "val": "1",
+            "type": "number",
+            "desc": "需要几个账号，数字为几"
+        }],
+            "repo": "https://github.com/age174/-/blob/main/scdcg.js",
+            "icons": ["https://ae01.alicdn.com/kf/U9f2a16b203ed40318d22f9fd5fdce9a9S.jpg", "https://ae01.alicdn.com/kf/U9f2a16b203ed40318d22f9fd5fdce9a9S.jpg"],
+            "script": "https://raw.githubusercontent.com/age174/-/main/scdcg.js"
+        },
+        {
+            "id": "csxdr",
+            "name": "超市小达人",
+            "keys": ["csxdrhd","csxdrbody","csxdrspbody", "csxdrhd2","csxdrbody2","csxdrspbody2","csxdrhd3","csxdrbody3","csxdrspbody3","csxdrhd4","csxdrbody4","csxdrspbody4","csxdrhd5","csxdrbody5","csxdrspbody5","csxdrhd6","csxdrbody6","csxdrspbody6","csxdrhd7","csxdrbody7","csxdrspbody7","csxdrhd8","csxdrbody8","csxdrspbody8","csxdrhd9","csxdrbody9","csxdrspbody9","csxdrhd10","csxdrbody10","csxdrspbody10"],
+            "author": "@feizao",
+            "settings": [{
+            "id": "csxdrstatus",
+            "name": "当前账号",
+            "val": "1",
+            "type": "number",
+            "desc": "当前账号对应"
+        },
+        {
+            "id": "csxdrcount",
+            "name": "账号个数",
+            "val": "1",
+            "type": "number",
+            "desc": "需要几个账号，数字为几"
+        }],
+            "repo": "https://github.com/age174/-/blob/main/csxdr.js",
+            "icons": ["https://ae01.alicdn.com/kf/Udd9cb36174cf41a7a69e28a643a360a9a.jpg", "https://ae01.alicdn.com/kf/Udd9cb36174cf41a7a69e28a643a360a9a.jpg"],
+            "script": "https://raw.githubusercontent.com/age174/-/main/csxdr.js"
+        } ,
+        {
+            "id": "dwyjy",
+            "name": "动物研究院",
+            "keys": ["dwyjyhd","dwyjybody","dwyjyspbody", "dwyjyhd2","dwyjybody2","dwyjyspbody2", "dwyjyhd3","dwyjybody3","dwyjyspbody3", "dwyjyhd4","dwyjybody4","dwyjyspbody4", "dwyjyhd5","dwyjybody5","dwyjyspbody5", "dwyjyhd6","dwyjybody6","dwyjyspbody6", "dwyjyhd7","dwyjybody7","dwyjyspbody7", "dwyjyhd8","dwyjybody8","dwyjyspbody8", "dwyjyhd9","dwyjybody9","dwyjyspbody9", "dwyjyhd10","dwyjybody10","dwyjyspbody10"],
+            "author": "@feizao",
+            "settings": [{
+            "id": "dwyjystatus",
+            "name": "当前账号",
+            "val": "1",
+            "type": "number",
+            "desc": "当前账号对应"
+        },
+        {
+            "id": "dwyjycount",
+            "name": "账号个数",
+            "val": "1",
+            "type": "number",
+            "desc": "需要几个账号，数字为几"
+        }],
+            "repo": "https://github.com/age174/-/blob/main/dwyjy.js",
+            "icons": ["https://ae01.alicdn.com/kf/Uc740cff52d1c48c49223a8a7378a54d1q.jpg", "https://ae01.alicdn.com/kf/Uc740cff52d1c48c49223a8a7378a54d1q.jpg"],
+            "script": "https://raw.githubusercontent.com/age174/-/main/dwyjy.js"
+        }
     ]
 }
