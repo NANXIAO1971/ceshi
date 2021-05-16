@@ -412,7 +412,7 @@
         {
             "id": "scdcg",
             "name": "食材大冲关",
-            "keys": ["scdcghd","scdcgbody","scdcgspbody","scdcghd2","scdcgbody2","scdcgspbody2","scdcghd3","scdcgbody3","scdcgspbody3","scdcghd4","scdcgbody4","scdcgspbody4","scdcghd5","scdcgbody5","scdcgspbody5","scdcghd6","scdcgbody6","scdcgspbody6","scdcghd7","scdcgbody7","scdcgspbody7","scdcghd8","scdcgbody8","scdcgspbody8","scdcghd9","scdcgbody9","scdcgspbody9","scdcghd10","scdcgbody10","scdcgspbody10"],
+            "keys": ["scdcghd","scdcgbody","scdcgspbody","scdcghd2","scdcgbody2","scdcgspbody2","scdcghd3","scdcgbody3","scdcgspbody3","scdcghd4","scdcgbody4","scdcgspbody4","scdcghd5","scdcgbody5","scdcgspbody5","scdcghd6","scdcgbody6","scdcgspbody6"],
             "author": "@feizao",
             "settings": [{
             "id": "scdcgstatus",
@@ -435,7 +435,7 @@
         {
             "id": "csxdr",
             "name": "超市小达人",
-            "keys": ["csxdrhd","csxdrbody","csxdrspbody", "csxdrhd2","csxdrbody2","csxdrspbody2","csxdrhd3","csxdrbody3","csxdrspbody3","csxdrhd4","csxdrbody4","csxdrspbody4","csxdrhd5","csxdrbody5","csxdrspbody5","csxdrhd6","csxdrbody6","csxdrspbody6","csxdrhd7","csxdrbody7","csxdrspbody7","csxdrhd8","csxdrbody8","csxdrspbody8","csxdrhd9","csxdrbody9","csxdrspbody9","csxdrhd10","csxdrbody10","csxdrspbody10"],
+            "keys": ["csxdrhd","csxdrbody","csxdrspbody", "csxdrhd2","csxdrbody2","csxdrspbody2","csxdrhd3","csxdrbody3","csxdrspbody3","csxdrhd4","csxdrbody4","csxdrspbody4","csxdrhd5","csxdrbody5","csxdrspbody5","csxdrhd6","csxdrbody6","csxdrspbody6"],
             "author": "@feizao",
             "settings": [{
             "id": "csxdrstatus",
@@ -458,7 +458,7 @@
         {
             "id": "dwyjy",
             "name": "动物研究院",
-            "keys": ["dwyjyhd","dwyjybody","dwyjyspbody", "dwyjyhd2","dwyjybody2","dwyjyspbody2", "dwyjyhd3","dwyjybody3","dwyjyspbody3", "dwyjyhd4","dwyjybody4","dwyjyspbody4", "dwyjyhd5","dwyjybody5","dwyjyspbody5", "dwyjyhd6","dwyjybody6","dwyjyspbody6", "dwyjyhd7","dwyjybody7","dwyjyspbody7", "dwyjyhd8","dwyjybody8","dwyjyspbody8", "dwyjyhd9","dwyjybody9","dwyjyspbody9", "dwyjyhd10","dwyjybody10","dwyjyspbody10"],
+            "keys": ["dwyjyhd","dwyjybody","dwyjyspbody", "dwyjyhd2","dwyjybody2","dwyjyspbody2", "dwyjyhd3","dwyjybody3","dwyjyspbody3", "dwyjyhd4","dwyjybody4","dwyjyspbody4", "dwyjyhd5","dwyjybody5","dwyjyspbody5", "dwyjyhd6","dwyjybody6","dwyjyspbody6"],
             "author": "@feizao",
             "settings": [{
             "id": "dwyjystatus",
