@@ -477,6 +477,29 @@
             "repo": "https://github.com/age174/-/blob/main/dwyjy.js",
             "icons": ["https://ae01.alicdn.com/kf/Uc740cff52d1c48c49223a8a7378a54d1q.jpg", "https://ae01.alicdn.com/kf/Uc740cff52d1c48c49223a8a7378a54d1q.jpg"],
             "script": "https://raw.githubusercontent.com/age174/-/main/dwyjy.js"
+        },
+        {
+            "id": "fksl",
+            "name": "疯狂森林",
+            "keys": ["fkslurl","fkslhd"],
+            "author": "@feizao",
+            "settings": [{
+            "id": "fkslhstatus",
+            "name": "当前账号",
+            "val": "1",
+            "type": "number",
+            "desc": "当前账号对应"
+        },
+        {
+            "id": "fkslhcount",
+            "name": "账号个数",
+            "val": "1",
+            "type": "number",
+            "desc": "需要几个账号，数字为几"
+        }],
+            "repo": "https://github.com/age174/-/blob/main/fksl.js",
+            "icons": ["https://ae01.alicdn.com/kf/U1d2f24494aa1460286360f8bb0e10210Y.jpg", "https://ae01.alicdn.com/kf/U1d2f24494aa1460286360f8bb0e10210Y.jpg"],
+            "script": "https://raw.githubusercontent.com/age174/-/main/fksl.js"
         }
     ]
 }
