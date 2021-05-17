@@ -500,6 +500,33 @@
             "repo": "https://github.com/age174/-/blob/main/fksl.js",
             "icons": ["https://ae01.alicdn.com/kf/U1d2f24494aa1460286360f8bb0e10210Y.jpg", "https://ae01.alicdn.com/kf/U1d2f24494aa1460286360f8bb0e10210Y.jpg"],
             "script": "https://raw.githubusercontent.com/age174/-/main/fksl.js"
+        },
+        {
+      "id": "jx_tokens",
+      "name": "京喜tokens",
+      "keys": ["jx_tokens"],
+      "descs_html": [
+        "请勿随意在输入框修改内容，建议通过脚本去获取Token，若要修改，请按照 JSON 数组格式修改。",
+        "脚本地址【<a href=\"https://github.com/whyour/hundun/blob/master/quanx/jx_tokens.js\">京喜多账号Token获取</a>】,并按照此脚本注释进行配置"
+      ],
+      "settings": [
+        {
+          "id": "jx_tokens",
+          "name": "Tokens",
+          "val": "",
+          "type": "textarea",
+          "autoGrow": true,
+          "rows": 8,
+          "desc": "Tokens 列表 (JSON 数组格式)"
         }
+      ],
+      "author": "@whyour",
+      "repo": "https://github.com/whyour/hundun/blob/master/quanx/jx_tokens.js",
+      "script": "https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_tokens.js",
+      "icons": [
+        "https://raw.githubusercontent.com/58xinian/icon/master/jx_sign_mini.png",
+        "https://raw.githubusercontent.com/58xinian/icon/master/jx_sign.png"
+      ]
+    }
     ]
 }
