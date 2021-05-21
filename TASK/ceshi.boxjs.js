@@ -5,37 +5,6 @@
     "icon": "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/nxtx.png",
     "repo": "https://github.com/NANXIAO1971/ceshi",
     "apps": [{
-            "id": "bububao",
-            "name": "步步宝APP",
-            "keys": ["bububaotoken", "bububaotoken2", "bububaotoken3", "bububaotoken4", "bububaotoken5", "bububaotoken6", "bububaotoken7", "bububaotoken8"],
-            "author": "@ziye",
-            "settings": [{
-                    "id": "bububaoSuffix",
-                    "name": "当前账号",
-                    "val": "1",
-                    "type": "number",
-                    "desc": "当前抓取ck记录的账号序号，如：1、2、3、"
-                },
-                {
-                    "id": "bububaoCount",
-                    "name": "账号个数",
-                    "val": "1",
-                    "type": "number",
-                    "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
-                },
-                {
-                    "id": "bububaoCASH",
-                    "name": "提现标准",
-                    "val": "0",
-                    "type": "number",
-                    "desc": "0不提现，可设置 0 0.3 50 100 200 888  设置888由上至下循环提现 "
-                }
-            ],
-            "repo": "https://raw.githubusercontent.com/NANXIAO1971/ZYJB/master/Task/bububao.js",
-            "icons": ["https://raw.githubusercontent.com/NANXIAO1971/ZYJB/master/Task/bububao.png", "https://raw.githubusercontent.com/NANXIAO1971/ZYJB/master/Task/bububao.png"],
-            "script": "https://raw.githubusercontent.com/NANXIAO1971/ZYJB/master/Task/bububao.js"
-        },
-        {
             "author": "@sunert", 
             "descs_html": [
             "<h4 align=\"center\">获取Cookie以及脚本配置请查看<a href=\"https://github.com/Sunert/Scripts/raw/master/TaskConf/youth/readme.md\">配置说明</a></h4>", 
@@ -248,36 +217,6 @@
             "repo": "https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/shuqi.js",
             "icons": ["https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/shuqi.png", "https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/shuqi.png"],
             "script": "https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/shuqi.js"
-        }, 
-        {
-            "id": "vsh",
-            "name": "V生活",
-            "keys": ["vshurl", "vshhd", "vshbody", "vsh1body","vsh2body", "vshdspbody","vshspbody", "vshqdbody"],
-            "author": "@feizao",
-            "settings": [{
-            "id": "vshstatus",
-            "name": "当前账号",
-            "val": "1",
-            "type": "number",
-            "desc": "当前账号对应"
-        },
-        {
-            "id": "vshcount",
-            "name": "账号个数",
-            "val": "1",
-            "type": "number",
-            "desc": "需要几个账号，数字为几"
-        },
-        {
-            "id": "vshsp",
-            "name": "短视频开关",
-            "val": "0",
-            "type": "number",
-            "desc": "填写0为关闭,1为开启,默认关闭,需要开启的建议先做完日常任务再开始"
-        }],
-            "repo": "https://github.com/age174/-/blob/main/vsh.js",
-            "icons": ["https://ae01.alicdn.com/kf/Uf0da879c7acd4c7bad91f0e5a97667e1O.jpg", "https://ae01.alicdn.com/kf/Uf0da879c7acd4c7bad91f0e5a97667e1O.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/vsh.js"
         },
         {
             "id": "mh",
@@ -301,113 +240,6 @@
             "repo": "https://github.com/age174/-/blob/main/mhdsp.js",
             "icons": ["https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/icons/task/mhdsp.png", "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/icons/task/mhdsp.png"],
             "script": "https://raw.githubusercontent.com/age174/-/main/mhdsp.js"
-        },
-        {
-            "id": "qhyd",
-            "name": "千禾阅读",
-            "keys": ["qhydurl","qhydhd","qhydlqhd","qhydbody","qhydurl2","qhydhd2","qhydlqhd2","qhydbody2"],
-            "author": "@feizao",
-            "settings": [{
-            "id": "qhydstatus",
-            "name": "当前账号",
-            "val": "1",
-            "type": "number",
-            "desc": "当前账号对应"
-        },
-        {
-            "id": "qhydcount",
-            "name": "账号个数",
-            "val": "1",
-            "type": "number",
-            "desc": "需要几个账号，数字为几"
-        }],
-            "repo": "https://github.com/age174/-/blob/main/qhyd.js",
-            "icons": ["https://ae01.alicdn.com/kf/U413ab7460abb4a28b11deac3c5034243N.jpg", "https://ae01.alicdn.com/kf/U413ab7460abb4a28b11deac3c5034243N.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/qhyd.js"
-        },
-        {
-    "id": "ranlv",
-    "name": "燃旅视频",
-    "keys": ["rlurl", "rlheader","rlurl2","rlheader2","rlurl3","rlheader3","rlurl4","rlheader4","rlurl5", "rlheader5"],
-    "author": "@Ariszy",
-    "settings": [{
-            "id": "tz",
-            "name": "静默运行",
-            "val": "1",
-            "type": "number",
-            "desc": "0为不通知，1为全部通知"
-        },
-      {
-        "id": "rlstatus",
-        "name": "当前账号",
-        "val": "1",
-        "type": "number",
-        "desc": "当前账号对应"
-      },
-       {
-        "id": "rlcash",
-        "name": "提现金额",
-        "val": "0",
-        "type": "number",
-        "desc": "默认不提现，提现填需要的金额：1、3、10、20、45，建议填3"
-      },          
-      {
-        "id": "rlcount",
-        "name": "账号个数",
-        "val": "1",
-        "type": "number",
-        "desc": "需要几个账号，数字为几"
-      }],
-    "repo": "https://github.com/Ariszy/Private-Script/blob/master/Scripts/ranlv.js",
-    "icons": ["https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/rl-mini.png", "https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/rl.png"],
-    "script": "https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/ranlv.js"
-    },
-    {
-            "id": "QQread",
-            "name": "QQ阅读APP",
-            "keys": ["QQreadurl", "QQreadurl2", "QQreadurl3"],
-            "author": "@ziye",
-            "settings": [{
-                    "id": "QQreadSuffix",
-                    "name": "当前账号",
-                    "val": "1",
-                    "type": "number",
-                    "desc": "当前抓取ck记录的账号序号，如：1、2、3、"
-                },
-                {
-                    "id": "QQreadCount",
-                    "name": "账号个数",
-                    "val": "1",
-                    "type": "number",
-                    "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
-                }
-            ],
-            "repo": "https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/QQread.js",
-            "icons": ["https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/QQread.png", "https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/QQread.png"],
-            "script": "https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/QQread.js"
-        },
-        {
-            "id": "wdwhd",
-            "name": "我的网红店",
-            "keys": ["wdwhdhd","wdwhdbody","wdwhdspbody", "wdwhdhd2","wdwhdbody2","wdwhdspbody2", "wdwhdhd3","wdwhdbody3","wdwhdspbody3", "wdwhdhd4","wdwhdbody4","wdwhdspbody4", "wdwhdhd5","wdwhdbody5","wdwhdspbody5", "wdwhdhd6","wdwhdbody6","wdwhdspbody6"],
-            "author": "@feizao",
-            "settings": [{
-            "id": "wdwhdstatus",
-            "name": "当前账号",
-            "val": "1",
-            "type": "number",
-            "desc": "当前账号对应"
-        },
-        {
-            "id": "wdwhdcount",
-            "name": "账号个数",
-            "val": "1",
-            "type": "number",
-            "desc": "需要几个账号，数字为几"
-        }],
-            "repo": "https://github.com/NANXIAO1971/ceshi/blob/main/qx/wdwhd.js",
-            "icons": ["https://ae01.alicdn.com/kf/Uc5a0618d6a404079af9216e1012e35efs.jpg", "https://ae01.alicdn.com/kf/Uc5a0618d6a404079af9216e1012e35efs.jpg"],
-            "script": "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/wdwhd.js"
         },
         {
             "id": "scdcg",
@@ -500,33 +332,6 @@
             "repo": "https://github.com/age174/-/blob/main/fksl.js",
             "icons": ["https://ae01.alicdn.com/kf/U1d2f24494aa1460286360f8bb0e10210Y.jpg", "https://ae01.alicdn.com/kf/U1d2f24494aa1460286360f8bb0e10210Y.jpg"],
             "script": "https://raw.githubusercontent.com/age174/-/main/fksl.js"
-        },
-        {
-      "id": "jx_tokens",
-      "name": "京喜tokens",
-      "keys": ["jx_tokens"],
-      "descs_html": [
-        "请勿随意在输入框修改内容，建议通过脚本去获取Token，若要修改，请按照 JSON 数组格式修改。",
-        "脚本地址【<a href=\"https://github.com/whyour/hundun/blob/master/quanx/jx_tokens.js\">京喜多账号Token获取</a>】,并按照此脚本注释进行配置"
-      ],
-      "settings": [
-        {
-          "id": "jx_tokens",
-          "name": "Tokens",
-          "val": "",
-          "type": "textarea",
-          "autoGrow": true,
-          "rows": 8,
-          "desc": "Tokens 列表 (JSON 数组格式)"
         }
-      ],
-      "author": "@whyour",
-      "repo": "https://github.com/whyour/hundun/blob/master/quanx/jx_tokens.js",
-      "script": "https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_tokens.js",
-      "icons": [
-        "https://raw.githubusercontent.com/58xinian/icon/master/jx_sign_mini.png",
-        "https://raw.githubusercontent.com/58xinian/icon/master/jx_sign.png"
-      ]
-    }
     ]
 }
