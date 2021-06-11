@@ -382,34 +382,6 @@
         "https://raw.githubusercontent.com/58xinian/icon/master/jx_sign_mini.png",
         "https://raw.githubusercontent.com/58xinian/icon/master/jx_sign.png"
       ]
-    },
-    {
-            "id": "hbdd",
-            "name": "红包多多",
-            "keys": ["hbddhd","hbddbody","hbddhd2","hbddbody2","hbddhd3","hbddbody3","hbddhd4","hbddbody4"],
-            "author": "@tom",
-            "settings": [{
-            "id": "hbddstatus",
-            "name": "当前账号",
-            "val": "1",
-            "type": "number",
-            "desc": "当前抓取ck记录的账号序号，如：1、2、3、4"
-    },{
-            "id": "hbddcount",
-            "name": "账号个数",
-            "val": "1",
-            "type": "number",
-            "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
-    },{
-            "id": "tz",
-            "name": "通知",
-            "val": "1",
-            "type": "number",
-            "desc": "0关闭通知，1打开通知"
-    }],
-            "repo": "https://raw.githubusercontent.com/xl2101200/-/main/hbdd.js",
-            "icons": ["https://raw.githubusercontent.com/xl2101200/-/main/tom/tom.jpg","https://raw.githubusercontent.com/xl2101200/-/main/tom/tom.jpg"],
-            "script": "https://raw.githubusercontent.com/xl2101200/-/main/hbdd.js"
     }
     ]
 }
