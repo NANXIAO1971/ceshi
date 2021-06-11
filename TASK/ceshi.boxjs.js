@@ -381,7 +381,6 @@
       "icons": [
         "https://raw.githubusercontent.com/58xinian/icon/master/jx_sign_mini.png",
         "https://raw.githubusercontent.com/58xinian/icon/master/jx_sign.png"
-      ]
     }
     ]
 }
