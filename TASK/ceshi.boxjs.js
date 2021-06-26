@@ -7,7 +7,7 @@
     "apps": [{
             "author": "@sunert", 
             "descs_html": [
-            "<h4 align=\"center\">获取Cookie以及脚本配置请查看<a href=\"https://github.com/Sunert/Scripts/raw/master/TaskConf/youth/readme.md\">配置说明</a></h4>", 
+            "<h4 align=\"center\">获取Cookie以及脚本配置请查看<a href=\"https://github.com/Sunert/Script/raw/master/TaskConf/youth/readme.md\">配置说明</a></h4>", 
             "<br />", 
             "<p>其中<font color='#FF0000',font-weight: bold>zq_nick、zqcash</font>和<font color='#FF0000',font-weight: bold>zqcard</font>为昵称、提现金额和早起打卡开关，无需另外获取，相关项设置后自动生成，cashurl_zq和cashbody_zq为提现请求，获取后方可自动提现，可选</p>"
          ], 
@@ -21,9 +21,9 @@
             "zqcash", 
             "zqcard"
         ], 
-        "repo": "https://github.com/Sunert/Scripts/blob/master/Task/youth.js", 
+        "repo": "https://github.com/Sunert/Script/blob/master/Task/youth.js", 
         "id": "youth", 
-        "script": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js", 
+        "script": "https://raw.githubusercontent.com/Sunert/Script/master/Task/youth.js", 
         "settings": [
         {
           "id": "zqcard", 
@@ -87,9 +87,9 @@
         "youth_start", 
         "youth_look"
       ], 
-      "repo": "https://github.com/Sunert/Scripts/blob/master/Task/youth_gain.js", 
+      "repo": "https://github.com/Sunert/Script/blob/master/Task/youth_gain.js", 
       "id": "youthGain", 
-      "script": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth_gain.js", 
+      "script": "https://raw.githubusercontent.com/Sunert/Script/master/Task/youth_gain.js", 
       "name": "中青浏览赚&看看赚", 
       "icons": [
         "https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Alpha/youth.png", 
@@ -111,9 +111,9 @@
           "desc": "自动删除收益为0或者错误的阅读请求，使用完后请立即关闭，避免清空阅读请求"
         }
       ],
-      "repo": "https://github.com/Sunert/Scripts/blob/master/Task/Youth_Read.js", 
+      "repo": "https://github.com/Sunert/Script/blob/master/Task/Youth_Read.js", 
       "id": "youthRead", 
-      "script": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/Youth_Read.js", 
+      "script": "https://raw.githubusercontent.com/Sunert/Script/master/Task/Youth_Read.js", 
       "name": "中青自动阅读", 
       "icons": [
         "https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Alpha/youth.png", 
