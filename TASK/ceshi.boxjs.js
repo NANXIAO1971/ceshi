@@ -382,6 +382,65 @@
         "https://raw.githubusercontent.com/58xinian/icon/master/jx_sign_mini.png",
         "https://raw.githubusercontent.com/58xinian/icon/master/jx_sign.png"
       ]
+    },
+    {
+      "author": "@sunert", 
+      "keys": [
+        "jukan_body", 
+        "jukan_name"
+      ], 
+      "repo": "https://github.com/Sunert/Script/blob/master/Task/jukan.js", 
+      "id": "jukan", 
+      "script": "https://raw.githubusercontent.com/Sunert/Script/master/Task/jukan.js", 
+      "settings": [
+        {
+          "id": "jukan_out", 
+          "val": false, 
+          "name": "自动提现", 
+          "type": "boolean", 
+          "desc": "自动提现开关，请填入提现金额及微信绑定实名，默认关闭"
+        }, 
+        {
+          "id": "jukan_cash", 
+          "val": "", 
+          "name": "提现金额", 
+          "type": "radios", 
+          "items": [
+            {
+              "key": "3", 
+              "label": "3元(邀请专享)"
+            }, 
+            {
+              "key": "10", 
+              "label": "10元(阅读/邀请)"
+            }, 
+            {
+              "key": "30", 
+              "label": "30元(无条件)"
+            }, 
+            {
+              "key": "50", 
+              "label": "50元(无条件)"
+            }, 
+            {
+              "key": "100", 
+              "label": "100元(无条件)"
+            }
+          ]
+        }, 
+        {
+          "id": "jukan_name", 
+          "placeholder": "填入微信真实姓名", 
+          "val": "", 
+          "name": "微信真实姓名", 
+          "type": "text"
+        }
+      ], 
+      "name": "聚看点", 
+      "icons": [
+        "https://cdn.jsdelivr.net/gh/Sunert/Profiles@master/QuantumultX/Rules/Images/icon/jukan_mini.png", 
+        "https://cdn.jsdelivr.net/gh/Sunert/Profiles@master/QuantumultX/Rules/Images/icon/jukan.png"
+      ]
     }
     ]
 }
