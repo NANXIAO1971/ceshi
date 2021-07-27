@@ -242,121 +242,6 @@
             "script": "https://raw.githubusercontent.com/age174/-/main/mhdsp.js"
         },
         {
-            "id": "scdcg",
-            "name": "食材大冲关",
-            "keys": ["scdcghd","scdcgbody","scdcgspbody","scdcghd2","scdcgbody2","scdcgspbody2","scdcghd3","scdcgbody3","scdcgspbody3","scdcghd4","scdcgbody4","scdcgspbody4","scdcghd5","scdcgbody5","scdcgspbody5","scdcghd6","scdcgbody6","scdcgspbody6"],
-            "author": "@feizao",
-            "settings": [{
-            "id": "scdcgstatus",
-            "name": "当前账号",
-            "val": "1",
-            "type": "number",
-            "desc": "当前账号对应"
-        },
-        {
-            "id": "scdcgcount",
-            "name": "账号个数",
-            "val": "1",
-            "type": "number",
-            "desc": "需要几个账号，数字为几"
-        }],
-            "repo": "https://github.com/age174/-/blob/main/scdcg.js",
-            "icons": ["https://ae01.alicdn.com/kf/U9f2a16b203ed40318d22f9fd5fdce9a9S.jpg", "https://ae01.alicdn.com/kf/U9f2a16b203ed40318d22f9fd5fdce9a9S.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/scdcg.js"
-        },
-        {
-            "id": "csxdr",
-            "name": "超市小达人",
-            "keys": ["csxdrhd","csxdrbody","csxdrspbody", "csxdrhd2","csxdrbody2","csxdrspbody2","csxdrhd3","csxdrbody3","csxdrspbody3","csxdrhd4","csxdrbody4","csxdrspbody4","csxdrhd5","csxdrbody5","csxdrspbody5","csxdrhd6","csxdrbody6","csxdrspbody6"],
-            "author": "@feizao",
-            "settings": [{
-            "id": "csxdrstatus",
-            "name": "当前账号",
-            "val": "1",
-            "type": "number",
-            "desc": "当前账号对应"
-        },
-        {
-            "id": "csxdrcount",
-            "name": "账号个数",
-            "val": "1",
-            "type": "number",
-            "desc": "需要几个账号，数字为几"
-        }],
-            "repo": "https://github.com/age174/-/blob/main/csxdr.js",
-            "icons": ["https://ae01.alicdn.com/kf/Udd9cb36174cf41a7a69e28a643a360a9a.jpg", "https://ae01.alicdn.com/kf/Udd9cb36174cf41a7a69e28a643a360a9a.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/csxdr.js"
-        } ,
-        {
-            "id": "dwyjy",
-            "name": "动物研究院",
-            "keys": ["dwyjyhd","dwyjybody","dwyjyspbody", "dwyjyhd2","dwyjybody2","dwyjyspbody2", "dwyjyhd3","dwyjybody3","dwyjyspbody3", "dwyjyhd4","dwyjybody4","dwyjyspbody4", "dwyjyhd5","dwyjybody5","dwyjyspbody5", "dwyjyhd6","dwyjybody6","dwyjyspbody6"],
-            "author": "@feizao",
-            "settings": [{
-            "id": "dwyjystatus",
-            "name": "当前账号",
-            "val": "1",
-            "type": "number",
-            "desc": "当前账号对应"
-        },
-        {
-            "id": "dwyjycount",
-            "name": "账号个数",
-            "val": "1",
-            "type": "number",
-            "desc": "需要几个账号，数字为几"
-        }],
-            "repo": "https://github.com/age174/-/blob/main/dwyjy.js",
-            "icons": ["https://ae01.alicdn.com/kf/Uc740cff52d1c48c49223a8a7378a54d1q.jpg", "https://ae01.alicdn.com/kf/Uc740cff52d1c48c49223a8a7378a54d1q.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/dwyjy.js"
-        },
-        {
-            "id": "fksl",
-            "name": "疯狂森林",
-            "keys": ["fkslurl","fkslhd"],
-            "author": "@feizao",
-            "settings": [{
-            "id": "fkslhstatus",
-            "name": "当前账号",
-            "val": "1",
-            "type": "number",
-            "desc": "当前账号对应"
-        },
-        {
-            "id": "fkslhcount",
-            "name": "账号个数",
-            "val": "1",
-            "type": "number",
-            "desc": "需要几个账号，数字为几"
-        }],
-            "repo": "https://github.com/age174/-/blob/main/fksl.js",
-            "icons": ["https://ae01.alicdn.com/kf/U1d2f24494aa1460286360f8bb0e10210Y.jpg", "https://ae01.alicdn.com/kf/U1d2f24494aa1460286360f8bb0e10210Y.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/fksl.js"
-        },
-        {
-            "id": "wdwhd",
-            "name": "我的网红店",
-            "keys": ["wdwhdhd","wdwhdbody","wdwhdspbody", "wdwhdhd2","wdwhdbody2","wdwhdspbody2", "wdwhdhd3","wdwhdbody3","wdwhdspbody3", "wdwhdhd4","wdwhdbody4","wdwhdspbody4"],
-            "author": "@feizao",
-            "settings": [{
-            "id": "wdwhdstatus",
-            "name": "当前账号",
-            "val": "1",
-            "type": "number",
-            "desc": "当前账号对应"
-    },
-    {
-            "id": "wdwhdcount",
-            "name": "账号个数",
-            "val": "1",
-            "type": "number",
-            "desc": "需要几个账号，数字为几"
-    }],
-            "repo": "https://github.com/age174/-/blob/main/wdwhd.js",
-            "icons": ["https://ae01.alicdn.com/kf/Uc5a0618d6a404079af9216e1012e35efs.jpg", "https://ae01.alicdn.com/kf/Uc5a0618d6a404079af9216e1012e35efs.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/wdwhd.js"
-    },
-    {
       "id": "jx_tokens",
       "name": "京喜tokens",
       "keys": ["jx_tokens"],
@@ -441,6 +326,64 @@
         "https://cdn.jsdelivr.net/gh/Sunert/Profiles@master/QuantumultX/Rules/Images/icon/jukan_mini.png", 
         "https://cdn.jsdelivr.net/gh/Sunert/Profiles@master/QuantumultX/Rules/Images/icon/jukan.png"
       ]
-    }
+    },
+    {
+            "id": "rl",
+            "name": "燃旅视频",
+            "keys": ["rlurl", "rlurl2", "rlurl3", "rlurl4"],
+            "author": "@ziye",
+            "settings": [{
+                    "id": "rlSuffix",
+                    "name": "当前账号",
+                    "val": "1",
+                    "type": "number",
+                    "desc": "当前抓取ck记录的账号序号，如：1、2、3、"
+                },
+                {
+                    "id": "rlCount",
+                    "name": "账号个数",
+                    "val": "1",
+                    "type": "number",
+                    "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
+                },
+                {
+                    "id": "rlXH",
+                    "name": "循环获取CK",
+                    "val": "0",
+                    "type": "number",
+                    "desc": "0关闭 1开启,默认关闭"
+                }, 
+                {
+                    "id": "rlXYZ",
+                    "name": "执行概率",
+                    "val": "100",
+                    "type": "number",
+                    "desc": "0不执行 可设置0-100,默认百分百"
+                },
+                {
+                    "id": "rlnotifyttt",
+                    "name": "推送控制",
+                    "val": "1",
+                    "type": "number",
+                    "desc": "0关闭，1推送,默认12点以及23点推送"
+                },
+                {
+                    "id": "rlnotifyInterval",
+                    "name": "通知控制",
+                    "val": "2",
+                    "type": "number",
+                    "desc": "0关闭，1为 所有通知，2为 12，23 点通知，3为 6，12，18，23 点通知 "
+                },
+                {
+                    "id": "rlMinutes",
+                    "name": "推送-通知 分钟控制",
+                    "val": "10",
+                    "type": "number",
+                    "desc": "推送以及通知控制在什么分钟段，可设置0-59,默认0到10"
+                }],
+            "repo": "https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/rl.js",
+            "icons": ["https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/rl.png", "https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/rl.png"],
+            "script": "https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/rl.js"
+        }
     ]
 }
