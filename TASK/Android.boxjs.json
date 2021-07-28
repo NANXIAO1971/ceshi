@@ -350,21 +350,6 @@
     "repo": ["https://raw.githubusercontent.com/CenBoMin/GithubSync"],
     "script": "https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txstockqx.js",
     "icons": ["https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txzxg.png", "https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txzxg.png"]
-  }, {
-    "id": "wlapp",
-    "name": "一毛看点",
-    "keys": ["getdomainbody", "getdomainkey", "userloginbody", "userloginkey", "artlistbody", "artlistkey", "artstationurl", "artstationkey", "readaccountbody", "readaccountkey", "infomebody", "infomekey", "videoartlistbody", "videoartlistkey", "videoreadaccountbody", "videoreadaccountkey", "artdetailbody", "artdetailkey"],
-    "settings": [{
-      "id": "cash",
-      "name": "提现开关:0,不自动提现;1，提现1元；5，提现5元",
-      "val": "",
-      "type": "number",
-      "desc": "默认为0,不自动提现"
-    }],
-    "author": "@cenbomin",
-    "repo": ["https://raw.githubusercontent.com/CenBoMin/GithubSync"],
-    "script": "https://raw.githubusercontent.com/CenBoMin/GithubSync/main/WLAPP/wlapp.js",
-    "icons": ["https://raw.githubusercontent.com/CenBoMin/GithubSync/main/WLAPP/IMG_1069.JPG", "https://raw.githubusercontent.com/CenBoMin/GithubSync/main/WLAPP/IMG_1068.JPG"]
   }
 ]
 }
