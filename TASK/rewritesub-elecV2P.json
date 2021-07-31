@@ -1,7 +1,7 @@
 {
   "name": "晶彩重写订阅",
   "author": "elecv2p",
-  "mitmhost": [hostname = https://ant.xunsl.com],
+  "mitmhost": [https://ant.xunsl.com],
   "rewrite": [
     {
       "match": "https://ant.xunsl.com/v5/article/complete.json",
