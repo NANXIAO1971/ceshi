@@ -72,7 +72,7 @@ const wztestheader = {
 
 function getwztestbody() {
     if ($request.url.match(/\/article\/info/)) {
-          bodyVal1 = $request.url.match(/\/article\/info.json?p=(.*?)/)
+          bodyVal1 = $request.url.match(/\/article\/info.json?p=(\w+)/)[1]
           bodyVal = 'p='+encodeURIComponent(bodyVal1)
 
         if (wztestbody) {
