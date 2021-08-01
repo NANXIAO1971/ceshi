@@ -23,12 +23,12 @@
       "match": "https://ant.xunsl.com/v5/nameless/adlickend.json",
       "target": "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/jckkz.js",
       "enable": true
-    }//,
+    }/*,
     {
       "match": "https://ant.xunsl.com/v5/CommonReward/toGetReward.json",
       "target": "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/jcqd.js",
       "enable": true
-    },//
+    },*/
     {
      "match":  "https://ant.xunsl.com/v5/article/info.json",
      "target": "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/Android/jcwztest.js",
