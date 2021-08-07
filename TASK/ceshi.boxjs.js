@@ -454,6 +454,20 @@
         "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/picture/jckd1.png",
         "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/picture/jckd2.png"
       ]
-    }
+    },
+    {
+      "author": "@shaolin-kongfu", 
+      "keys": [
+        "qdbody"
+      ], 
+      "repo": "https://github.com/shaolin-kongfu/js_scripts/blob/main/jcqd.js", 
+      "id": "jcSign", 
+      "script": "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/jcqd.js", 
+      "name": "晶彩签到", 
+      "icons": [ 
+        "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/picture/jckd1.png",
+        "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/picture/jckd2.png"
+      ]
+    }         
     ]
 }
