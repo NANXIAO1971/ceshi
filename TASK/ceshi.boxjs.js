@@ -425,6 +425,35 @@
             "repo": "https://github.com/age174/-/blob/main/fqkk.js",
             "icons": ["https://ftp.bmp.ovh/imgs/2021/02/f8306006536eb49c.jpeg", "https://ftp.bmp.ovh/imgs/2021/02/f8306006536eb49c.jpeg"],
             "script": "https://raw.githubusercontent.com/age174/-/main/fqkk.js"
+    },
+    {
+      "author": "@shaolin-kongfu", 
+      "keys": [
+        "lookStartbody", 
+        "lookbody"
+      ], 
+      "repo": "https://github.com/shaolin-kongfu/js_scripts/blob/main/jckkz.js", 
+      "id": "jcKkz", 
+      "script": "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/jckkz.js", 
+      "name": "晶彩看看赚", 
+      "icons": [
+        "https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Alpha/youth.png", 
+        "https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Color/youth.png"
+      ]
+    },
+    {
+      "author": "@shaolin-kongfu", 
+      "keys": [
+        "wzbody"
+      ], 
+      "repo": "https://github.com/shaolin-kongfu/js_scripts/blob/main/jcwz.js", 
+      "id": "jcRead", 
+      "script": "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/jcwz.js", 
+      "name": "晶彩自动阅读", 
+      "icons": [
+        "https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Alpha/youth.png", 
+        "https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Color/youth.png"
+      ]
     }
     ]
 }
