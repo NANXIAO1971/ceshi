@@ -437,8 +437,8 @@
       "script": "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/jckkz.js", 
       "name": "晶彩看看赚", 
       "icons": [
-        "https://github.com/NANXIAO1971/ceshi/blob/main/picture/jckd1.png", 
-        "https://github.com/NANXIAO1971/ceshi/blob/main/picture/jckd1.png"
+        "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png", 
+        "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png"
       ]
     },
     {
@@ -451,8 +451,8 @@
       "script": "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/jcwz.js", 
       "name": "晶彩自动阅读", 
       "icons": [
-        "https://github.com/NANXIAO1971/ceshi/blob/main/picture/jckd1.png", 
-        "https://github.com/NANXIAO1971/ceshi/blob/main/picture/jckd1.png"
+        "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png", 
+        "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png"
       ]
     }
     ]
