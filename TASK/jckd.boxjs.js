@@ -6,43 +6,41 @@
     "repo": "https://github.com/NANXIAO1971/ceshi",
     "apps": [
       {
-      "author": "@shaolin-kongfu", 
+      "id": "jcKkz",
+      "name": "晶彩看看赚",
       "keys": [
         "lookStartbody", 
         "lookbody"
       ], 
-      "repo": "https://github.com/shaolin-kongfu/js_scripts/blob/main/jckkz.js", 
-      "id": "jcKkz", 
+      "repo": "https://github.com/shaolin-kongfu/js_scripts/blob/main/jckkz.js",  
       "script": "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/jckkz.js", 
-      "name": "晶彩看看赚", 
+       
       "icons": [ 
         "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png",
         "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png"  
       ]
     },
     {
-      "author": "@shaolin-kongfu", 
+      "id": "jcRead",
+      "name": "晶彩自动阅读",
       "keys": [
         "wzbody"
       ], 
       "repo": "https://github.com/shaolin-kongfu/js_scripts/blob/main/jcwz.js", 
-      "id": "jcRead", 
       "script": "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/jcwz.js", 
-      "name": "晶彩自动阅读", 
       "icons": [ 
         "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png",
         "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png"
       ]
     },
     {
-      "author": "@shaolin-kongfu", 
+      "id": "jcSign",
+      "name": "晶彩签到",
       "keys": [
         "qdbody"
       ], 
-      "repo": "https://github.com/shaolin-kongfu/js_scripts/blob/main/jcqd.js", 
-      "id": "jcSign", 
-      "script": "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/jcqd.js", 
-      "name": "晶彩签到", 
+      "repo": "https://github.com/shaolin-kongfu/js_scripts/blob/main/jcqd.js",
+      "script": "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/jcqd.js",     
       "icons": [ 
         "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png",
         "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png"
