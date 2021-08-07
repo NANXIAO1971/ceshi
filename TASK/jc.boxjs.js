@@ -1,3 +1,9 @@
+{
+    "id": "nanxiao1971.app.sub",
+    "name": "自用脚本订阅",
+    "author": "@NANXIAO1971",
+    "icon": "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/qx/nxtx.png",
+    "repo": "https://github.com/NANXIAO1971/ceshi",
 "apps": [{
     "id": "jcKkz",
     "name": "晶彩看看赚",
@@ -39,3 +45,4 @@
     ]
   }
 ]
+}
