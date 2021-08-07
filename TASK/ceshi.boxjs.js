@@ -465,6 +465,19 @@
         "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png",
         "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png"
       ]
-    }         
-    ]
+    },
+    {
+      "id": "jcZf",
+      "name": "晶彩火爆转发",
+      "keys": [
+        "jc_cookie"
+      ], 
+      "repo": "https://github.com/shaolin-kongfu/js_scripts/blob/main/jc_share.js",
+      "script": "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/jc_share.js",     
+      "icons": [ 
+      "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png",
+      "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png"
+      ]
+     }
+   ]
 }
