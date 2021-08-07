@@ -349,99 +349,58 @@
             "script": "https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/rl.js"
         },
         {
-            "id": "fqkk",
-            "name": "番茄看看",
-            "keys": ["fqkk"],
-            "author": "@feizao",
-            "settings": [{
-                "id": "fqkkCkMove",
-                "val": "",
-                "name": "迁移旧数据",
-                "type": "boolean",
-                "desc": "开启该选项，执行一次脚本可将原有ck转换为此脚本可用的格式"
-              }, {
-                "id": "fqkkBanfirstTask",
-                "val": "",
-                "name": "限制脚本跑每日首次任务",
-                "type": "boolean",
-                "desc": "开启该选项时，每需手动阅读一次文章后脚本才能正常执行任务，尽量避免因脚本跑首次任务遭微信限制的情况"
-              }, {
-                "id": "fqkkConcurrency",
-                "val": "1",
-                "name": "并发执行账号数",
-                "type": "text",
-                "desc": "默认单账号跑任务，指定大于1的数值时，将并发执行多个账号的任务，请勿设置过大，避免NE工具崩溃（太大估计会崩溃吧）"
-              }, {
-                "id": "fqtx",
-                "name": "提现金额",
-                "val": "100",
-                "type": "number",
-                "desc": "需要自动提现多少，数字为金额的一百倍，如提现0.3元填写30，默认100为提现1元,最低提现额度为0.3元"
-              }, {
-                "id": "fqkk",
-                "name": "CK 列表",
-                "val": "",
-                "type": "textarea",
-                "rows": 8,
-                "desc": "番茄看看CK 列表 (JSON 格式)"
-              }],
-            "repo": "https://github.com/age174/-/blob/main/fqkk.js",
-            "icons": ["https://ftp.bmp.ovh/imgs/2021/02/f8306006536eb49c.jpeg", "https://ftp.bmp.ovh/imgs/2021/02/f8306006536eb49c.jpeg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/fqkk.js"
-    },
-    {
-      "id": "jcKkz",
-      "name": "晶彩看看赚",
-      "keys": [
-        "lookStartbody", 
-        "lookbody"
-      ], 
-      "repo": "https://github.com/shaolin-kongfu/js_scripts/blob/main/jckkz.js",  
-      "script": "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/jckkz.js", 
-       
-      "icons": [ 
-        "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png",
-        "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png"  
-      ]
-    },
-    {
-      "id": "jcRead",
-      "name": "晶彩自动阅读",
-      "keys": [
-        "wzbody"
-      ], 
-      "repo": "https://github.com/shaolin-kongfu/js_scripts/blob/main/jcwz.js", 
-      "script": "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/jcwz.js", 
-      "icons": [ 
-        "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png",
-        "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png"
-      ]
-    },
-    {
-      "id": "jcSign",
-      "name": "晶彩签到",
-      "keys": [
-        "qdbody"
-      ], 
-      "repo": "https://github.com/shaolin-kongfu/js_scripts/blob/main/jcqd.js",
-      "script": "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/jcqd.js",     
-      "icons": [ 
-        "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png",
-        "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png"
-      ]
-    },
-    {
-      "id": "jcZf",
-      "name": "晶彩火爆转发",
-      "keys": [
-        "jc_cookie"
-      ], 
-      "repo": "https://github.com/shaolin-kongfu/js_scripts/blob/main/jc_share.js",
-      "script": "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/jc_share.js",     
-      "icons": [ 
-      "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png",
-      "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png"
-      ]
-     }
-   ]
+          "id": "jcKkz",
+          "name": "晶彩看看赚",
+          "keys": [
+            "lookStartbody", 
+            "lookbody"
+          ], 
+          "repo": "https://github.com/shaolin-kongfu/js_scripts/blob/main/jckkz.js",  
+          "script": "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/jckkz.js", 
+
+          "icons": [ 
+            "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png",
+            "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png"  
+          ]
+        },
+        {
+          "id": "jcRead",
+          "name": "晶彩自动阅读",
+          "keys": [
+            "wzbody"
+          ], 
+          "repo": "https://github.com/shaolin-kongfu/js_scripts/blob/main/jcwz.js", 
+          "script": "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/jcwz.js", 
+          "icons": [ 
+            "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png",
+            "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png"
+          ]
+        },
+        {
+          "id": "jcSign",
+          "name": "晶彩签到",
+          "keys": [
+            "qdbody"
+          ], 
+          "repo": "https://github.com/shaolin-kongfu/js_scripts/blob/main/jcqd.js",
+          "script": "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/jcqd.js",     
+          "icons": [ 
+            "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png",
+            "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png"
+          ]
+        },
+        {
+          "id": "jcZf",
+          "name": "晶彩火爆转发",
+          "keys": [
+            "jc_cookie"
+          ], 
+          "repo": "https://github.com/shaolin-kongfu/js_scripts/blob/main/jc_share.js",
+          "script": "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/jc_share.js",     
+          "icons": [ 
+          "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png",
+          "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png"
+          ]
+         }
+     ]
 }
