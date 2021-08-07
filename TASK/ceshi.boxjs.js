@@ -219,29 +219,6 @@
             "script": "https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/shuqi.js"
         },
         {
-            "id": "mh",
-            "name": "陌嗨视频",
-            "keys": ["mhurl", "mhhd","mhurl2","mhhd2","mhurl3","mhhd3","mhurl4","mhhd4","mhurl5", "mhhd5"],
-            "author": "@feizao",
-            "settings": [{
-            "id": "mhstatus",
-            "name": "当前账号",
-            "val": "1",
-            "type": "number",
-            "desc": "当前账号对应"
-        },
-        {
-            "id": "mhcount",
-            "name": "账号个数",
-            "val": "1",
-            "type": "number",
-            "desc": "需要几个账号，数字为几"
-        }],
-            "repo": "https://github.com/age174/-/blob/main/mhdsp.js",
-            "icons": ["https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/icons/task/mhdsp.png", "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/icons/task/mhdsp.png"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/mhdsp.js"
-        },
-        {
       "id": "jx_tokens",
       "name": "京喜tokens",
       "keys": ["jx_tokens"],
@@ -312,33 +289,19 @@
               "label": "100元(无条件)"
             }
           ]
-        }, 
+        },
         {
-          "id": "jukan_name", 
-          "placeholder": "填入微信真实姓名", 
-          "val": "", 
-          "name": "微信真实姓名", 
-          "type": "text"
-        }
-      ], 
-      "name": "聚看点", 
-      "icons": [
-        "https://cdn.jsdelivr.net/gh/Sunert/Profiles@master/QuantumultX/Rules/Images/icon/jukan_mini.png", 
-        "https://cdn.jsdelivr.net/gh/Sunert/Profiles@master/QuantumultX/Rules/Images/icon/jukan.png"
-      ]
-    },
-    {
             "id": "rl",
             "name": "燃旅视频",
             "keys": ["rlurl", "rlurl2", "rlurl3", "rlurl4"],
             "author": "@ziye",
             "settings": [{
-                    "id": "rlSuffix",
-                    "name": "当前账号",
-                    "val": "1",
-                    "type": "number",
-                    "desc": "当前抓取ck记录的账号序号，如：1、2、3、"
-                },
+               "id": "rlSuffix",
+               "name": "当前账号",
+               "val": "1",
+               "type": "number",
+               "desc": "当前抓取ck记录的账号序号，如：1、2、3、"
+         },
                 {
                     "id": "rlCount",
                     "name": "账号个数",
