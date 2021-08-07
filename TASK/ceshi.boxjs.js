@@ -436,8 +436,7 @@
       "id": "jcKkz", 
       "script": "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/jckkz.js", 
       "name": "晶彩看看赚", 
-      "icons": [
-        "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd2.png", 
+      "icons": [ 
         "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png"
       ]
     },
@@ -450,8 +449,7 @@
       "id": "jcRead", 
       "script": "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/jcwz.js", 
       "name": "晶彩自动阅读", 
-      "icons": [
-        "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd2.png", 
+      "icons": [ 
         "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png"
       ]
     }
