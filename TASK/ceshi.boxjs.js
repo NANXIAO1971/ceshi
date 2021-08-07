@@ -438,7 +438,7 @@
       "name": "晶彩看看赚", 
       "icons": [
         "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png", 
-        "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png"
+        "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd2.png"
       ]
     },
     {
@@ -452,7 +452,7 @@
       "name": "晶彩自动阅读", 
       "icons": [
         "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png", 
-        "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png"
+        "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd2.png"
       ]
     }
     ]
