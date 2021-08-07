@@ -466,7 +466,7 @@
       "name": "晶彩签到", 
       "icons": [ 
         "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/picture/jckd1.png",
-        "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/picture/jckd2.png"
+        "https://raw.githubusercontent.com/NANXIAO1971/ceshi/main/picture/jckd1.png"
       ]
     }         
     ]
