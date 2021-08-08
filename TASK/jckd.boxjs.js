@@ -38,9 +38,7 @@
       "id": "jcSign",
       "name": "晶彩签到",
       "keys": [
-        "qdbody",
-        "jc_timebody",
-        "jcboxbody"
+        "qdbody"
       ], 
       "repo": "https://github.com/shaolin-kongfu/js_scripts/blob/main/jcqd.js",
       "script": "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/jcqd.js",     
@@ -53,9 +51,7 @@
       "id": "jcZf",
       "name": "晶彩火爆转发",
       "keys": [
-        "jc_cookie",
-        "jc_timebody",
-        "jcboxbody"
+        "jc_cookie"
       ], 
       "repo": "https://github.com/shaolin-kongfu/js_scripts/blob/main/jc_share.js",
       "script": "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/jc_share.js",     
@@ -68,8 +64,6 @@
       "id": "jcbox",
       "name": "晶彩宝箱",
       "keys": [
-        "jc_cookie",
-        "jc_timebody",
         "jcboxbody"
       ], 
       "repo": "https://github.com/shaolin-kongfu/js_scripts/blob/main/jcbox.js",
