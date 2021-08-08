@@ -24,7 +24,8 @@
       "id": "jcRead",
       "name": "晶彩自动阅读",
       "keys": [
-        "wzbody"
+        "wzbody",
+        "jc_timebody"
       ], 
       "repo": "https://github.com/shaolin-kongfu/js_scripts/blob/main/jcwz.js", 
       "script": "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/jcwz.js", 
@@ -54,19 +55,6 @@
       ], 
       "repo": "https://github.com/shaolin-kongfu/js_scripts/blob/main/jc_share.js",
       "script": "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/jc_share.js",     
-      "icons": [ 
-      "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png",
-      "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png"
-      ]
-     },
-     {
-      "id": "jcbox",
-      "name": "晶彩火爆转发",
-      "keys": [
-        "jc_cookie"
-      ], 
-      "repo": "https://github.com/shaolin-kongfu/js_scripts/blob/main/jcbox.js",
-      "script": "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/jcbox.js",     
       "icons": [ 
       "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png",
       "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png"
