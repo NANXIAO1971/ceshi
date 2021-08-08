@@ -1,7 +1,7 @@
 {
   "name": "晶彩重写订阅",
   "author": "爱谁谁",
-  "note": "该订阅仅适用于elecV2P。",
+  "note": "该订阅仅适用于elecV2P",
   "mitmhost": ["ant.xunsl.com"],
   "rewrite": [
     {
