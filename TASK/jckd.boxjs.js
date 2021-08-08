@@ -27,8 +27,7 @@
       "name": "晶彩自动阅读",
       "keys": [
         "wzbody",
-        "jc_timebody",
-        "jcboxbody"
+        "jc_timebody"
       ], 
       "repo": "https://github.com/shaolin-kongfu/js_scripts/blob/main/jcwz.js", 
       "script": "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/jcwz.js", 
