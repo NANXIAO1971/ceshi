@@ -80,21 +80,6 @@
       "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png",
       "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png"
       ]
-     },
-     {
-      "id": "jcsy",
-      "name": "晶彩每日收益",
-      "keys": [
-        "jc_cookie",
-        "jc_timebody",
-        "jcboxbody"
-      ], 
-      "repo": "https://github.com/shaolin-kongfu/js_scripts/blob/main/jc_today_score.js",
-      "script": "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/jc_today_score.js",     
-      "icons": [ 
-      "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png",
-      "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png"
-      ]
      }
    ]
 }
