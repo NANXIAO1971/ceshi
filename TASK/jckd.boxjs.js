@@ -36,9 +36,10 @@
     },
     {
       "id": "jcSign",
-      "name": "晶彩签到",
+      "name": "晶彩签到&宝箱",
       "keys": [
-        "qdbody"
+        "qdbody",
+        "jcboxbody"
       ], 
       "repo": "https://github.com/shaolin-kongfu/js_scripts/blob/main/jcqd.js",
       "script": "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/jcqd.js",     
@@ -55,19 +56,6 @@
       ], 
       "repo": "https://github.com/shaolin-kongfu/js_scripts/blob/main/jc_share.js",
       "script": "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/jc_share.js",     
-      "icons": [ 
-      "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png",
-      "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png"
-      ]
-     },
-     {
-      "id": "jcbox",
-      "name": "晶彩宝箱",
-      "keys": [
-        "jcboxbody"
-      ], 
-      "repo": "https://github.com/shaolin-kongfu/js_scripts/blob/main/jcbox.js",
-      "script": "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/jcbox.js",     
       "icons": [ 
       "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png",
       "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png"
