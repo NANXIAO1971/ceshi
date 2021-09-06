@@ -596,8 +596,8 @@
       "repo": "https://github.com/laoguilin/scripts/blob/main/QX/JKD/jkd.js", 
       "script": "https://raw.githubusercontent.com/laoguilin/scripts/main/QX/JKD/jkd.js", 
       "icons": [ 
-        "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png",
-        "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png"
+        "https://cdn.jsdelivr.net/gh/laoguilin/scripts@main/img/jkd.png",
+        "https://cdn.jsdelivr.net/gh/laoguilin/scripts@main/img/jkd.png"
       ]
     }     
    ]
