@@ -585,6 +585,20 @@
                         "repo": "https://raw.githubusercontent.com/xl2101200/-/main/jztt.js",
                             "icons": ["https://raw.githubusercontent.com/xl2101200/-/main/tom/tom.jpg", "https://raw.githubusercontent.com/xl2101200/-/main/tom/tom.jpg"],
                                 "script": "https://raw.githubusercontent.com/xl2101200/-/main/jztt.js"
-     }
+     },
+     {
+      "id": "JKD",
+      "name": "聚看点",
+      "keys": [
+        "jkdhd",
+        "jkdck"
+      ], 
+      "repo": "https://github.com/laoguilin/scripts/blob/main/QX/JKD/jkd.js", 
+      "script": "https://raw.githubusercontent.com/laoguilin/scripts/main/QX/JKD/jkd.js", 
+      "icons": [ 
+        "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png",
+        "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png"
+      ]
+    }     
    ]
 }
