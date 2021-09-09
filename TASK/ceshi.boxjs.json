@@ -603,15 +603,10 @@
     {
       "id": "fhxz",
       "name": "富豪小镇",
-      "keys": [
-        "fhxzurl"
-      ], 
+      "keys": ["fhxzurl"], 
       "repo": "https://github.com/laoguilin/scripts/blob/main/QX/fh/qlfhxz.js", 
       "script": "https://raw.githubusercontent.com/laoguilin/scripts/main/QX/fh/qlfhxz.js", 
-      "icons": [ 
-        "https://cdn.jsdelivr.net/gh/laoguilin/scripts@main/img/jkd.png",
-        "https://cdn.jsdelivr.net/gh/laoguilin/scripts@main/img/jkd.png"
-      ]
+      "icons": [ "https://cdn.jsdelivr.net/gh/laoguilin/scripts@main/img/jkd.png","https://cdn.jsdelivr.net/gh/laoguilin/scripts@main/img/jkd.png"]
     }
    ]
 }
