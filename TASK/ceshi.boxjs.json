@@ -673,6 +673,14 @@
       "repo": "https://github.com/laoguilin/scripts/blob/main/QX/fh/", 
       "script": "https://raw.githubusercontent.com/laoguilin/scripts/main/QX/fh/", 
       "icons": [ "https://cdn.jsdelivr.net/gh/laoguilin/scripts@main/img/jkd.png","https://cdn.jsdelivr.net/gh/laoguilin/scripts@main/img/jkd.png"]
+    },
+    {
+      "id": "zgdxws",
+      "name": "中国电信",
+      "keys": ["dxwsurl", "dxwshd", "dxwsbody"], 
+      "repo": "https://github.com/laoguilin/scripts/blob/main/QX/fh/", 
+      "script": "https://raw.githubusercontent.com/laoguilin/scripts/main/QX/fh/", 
+      "icons": [ "https://cdn.jsdelivr.net/gh/laoguilin/scripts@main/img/jkd.png","https://cdn.jsdelivr.net/gh/laoguilin/scripts@main/img/jkd.png"]
     }
    ]
 }
