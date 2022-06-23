@@ -172,10 +172,11 @@
     {
       "key":"蒲公英剧场",
       "name":"⚡️蒲公英剧场",
-      "type":1,
-      "api":"http://www.pgy1.top/api.php/provide/vod/",
+      "type":0,
+      "api":"http://www.pgy1.top/api.php/provide/vod/at/xml/",
       "searchable":1,
-      "quickSearch":1
+      "quickSearch":1,
+      "filterable": 0
     }
 
  
